@@ -1,0 +1,64 @@
+/* About.css */
+.about-container {
+  position: relative;
+  overflow: hidden;
+  padding: 40px 20px; /* Added padding for better spacing */
+  color: #ffffff;
+  text-align: center;
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.about-header {
+  background: rgba(0, 0, 0, 0.6); /* Darker semi-transparent background */
+  padding: 20px 40px; /* Adjusted padding for better aesthetics */
+  color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4); /* Increased shadow for depth */
+  margin-bottom: 30px;
+}
+
+.about-photo {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  border-radius: 12px; /* Increased border-radius for a smoother look */
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.5); /* Increased shadow for depth */
+  margin: 20px 0;
+}
+
+.about-content {
+  background: rgba(0, 0, 0, 0.6); /* Darker semi-transparent background for content */
+  padding: 30px 40px; /* Adjusted padding for better aesthetics */
+  border-radius: 8px;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.5); /* Increased shadow for depth */
+  max-width: 800px;
+  margin: 0 auto 30px; /* Added bottom margin for spacing */
+}
+
+.about-content p {
+  color: #dddddd; /* Light text color for readability */
+  font-size: 1.2em; /* Slightly increased font size */
+  line-height: 1.6; /* Improved line height for better readability */
+}
+
+.social-links {
+  display: flex;
+  justify-content: center;
+  gap: 20px; /* Added gap between social icons */
+  margin-top: 20px; /* Added margin-top for spacing */
+}
+
+.social-icon {
+  width: 40px; /* Consistent icon size */
+  height: 40px;
+  transition: transform 0.3s ease; /* Smooth transition for hover effect */
+}
+
+.social-icon:hover {
+  transform: scale(1.1); /* Slightly enlarge on hover */
+}
