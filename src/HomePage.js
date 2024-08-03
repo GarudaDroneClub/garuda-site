@@ -1,11 +1,13 @@
 import React from 'react';
 import './HomePage.css';
-import logo from './logo.png'; // Make sure you have a logo.png in the src folder or change the path accordingly
+import logo from './logo.png';
 import backgroundVideo from './backgroundVideo.mp4';
+import Header from './Header';
 
 const HomePage = () => {
   return (
     <div className="home-container">
+      <Header />
       <video autoPlay loop muted className="home-video">
         <source src={backgroundVideo} type="video/mp4" />
         Your browser does not support the video tag.
@@ -19,7 +21,7 @@ const HomePage = () => {
         <a href="/about" className="home-section">
           <h2>About Us</h2>
         </a>
-        <a href="/OurJourney" className="home-section">
+        <a href="/ourjourney" className="home-section">
           <h2>Our Journey</h2>
         </a>
         <a href="/upcoming-events" className="home-section">
@@ -31,7 +33,14 @@ const HomePage = () => {
         <a href="/team" className="home-section">
           <h2>Team</h2>
         </a>
+        
+        <a href="/contact" className="home-section">
+          <h2>Contact Us</h2>
+        </a>
       </section>
+      <footer className="home-footer">
+        <p>Developed by G. Venkat</p>
+      </footer>
     </div>
   );
 };

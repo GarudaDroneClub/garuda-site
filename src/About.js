@@ -1,15 +1,17 @@
 import React from 'react';
 import './About.css';
-import aboutPhoto from './aboutPhoto.jpg'; // Ensure this path is correct
-import backgroundImage from './backgroundImage.jpg'; // Ensure this path is correct
-import instagramIcon from './instagramIcon.png'; // Ensure this path is correct
-import telegramIcon from './telegramIcon.png'; // Ensure this path is correct
-import linkedinIcon from './linkedinIcon.png'; // Ensure this path is correct
-import youtubeIcon from './youtubeIcon.png'; // Ensure this path is correct
+import Header from './Header'; // Import the Header component
+import aboutPhoto from './aboutPhoto.jpg';
+import backgroundImage from './backgroundImage.jpg';
+import instagramIcon from './instagramIcon.png';
+import telegramIcon from './telegramIcon.png';
+import linkedinIcon from './linkedinIcon.png';
+import youtubeIcon from './youtubeIcon.png';
 
 const About = () => {
   return (
     <div className="about-container" style={{ backgroundImage: `url(${backgroundImage})` }}>
+      <Header /> {/* Include the Header component */}
       <header className="about-header">
         <h2>About Us</h2>
       </header>

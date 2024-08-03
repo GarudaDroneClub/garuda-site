@@ -13,11 +13,14 @@ import PastEventPhoto10 from './PastEventPhoto10.jpg';
 import PastEventPhoto11 from './PastEventPhoto11.jpg'; 
 import PastEventPhoto12 from './PastEventPhoto12.jpg'; 
 import PastEventPhoto13 from './PastEventPhoto13.jpg'; 
-import PastEventPhoto14 from './PastEventPhoto14.jpg';  
+import PastEventPhoto14 from './PastEventPhoto14.jpg'; 
+import Header from './Header';
+
 
 const PastEvents = () => {
   return (
     <div className="events-container">
+      <Header />
       <header className="events-header">
         <h2>Past Events</h2>
         <h3>2023-2024</h3>

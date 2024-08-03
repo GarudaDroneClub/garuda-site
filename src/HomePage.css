@@ -6,6 +6,7 @@
   height: 100vh;
   color: #ffffff;
   text-align: center;
+  padding-top: 70px; /* Adjust for fixed header */
 }
 
 .home-video {
@@ -69,25 +70,10 @@
   color: #dddddd; /* Light text color for readability */
 }
 
-.button-container {
-  display: block;
-  width: 100%; /* Ensure buttons take full width */
-  text-align: center;
-}
-
-button {
-  background-color: #ff6666;
-  color: #ffffff;
-  border: none;
-  padding: 10px 20px;
-  margin: 10px auto; /* Center buttons */
-  border-radius: 8px;
-  cursor: pointer;
-  transition: background-color 0.3s;
-  display: block; /* Ensure buttons are block elements */
-  width: 200px; /* Optional: set a specific width for the buttons */
-}
-
-button:hover {
-  background-color: #e65c5c;
+.home-footer {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  font-size: 10px;
+  color: rgba(255, 255, 255, 0.5); /* Almost unnoticeable */
 }
