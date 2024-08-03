@@ -15,6 +15,7 @@
   height: 100%;
   object-fit: cover;
   z-index: -1; /* Ensure the video is behind other elements */
+  background-color: #000; /* Fallback color */
 }
 
 .team-header {
