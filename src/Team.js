@@ -2,15 +2,15 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import Header from './Header';
 import './Team.css';
-import teamVideo from './TeamVideo.mp4';
+import TeamVideo from './TeamVideo.mp4';
 
 const Team = () => {
-  console.log('Video source:', teamVideo); // Debugging line
+  console.log('Video source:', TeamVideo); // Debugging line
   return (
     <div className="team-container">
       <Header />
       <video autoPlay loop muted className="team-video">
-        <source src={teamVideo} type="video/mp4" />
+        <source src={TeamVideo} type="video/mp4" />
         Your browser does not support the video tag.
       </video>
       <header className="team-header">
