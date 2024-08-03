@@ -5,6 +5,7 @@ import './Team.css';
 import teamVideo from './TeamVideo.mp4';
 
 const Team = () => {
+  console.log('Video source:', teamVideo); // Debugging line
   return (
     <div className="team-container">
       <Header />
