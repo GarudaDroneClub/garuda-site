@@ -2,6 +2,7 @@
   position: relative;
   text-align: center;
   padding: 20px;
+  background-color: #1c1c1c;
   color: #ffffff;
   min-height: 100vh;
   overflow: hidden;
@@ -14,12 +15,11 @@
   width: 100%;
   height: 100%;
   object-fit: cover;
-  z-index: -1; /* Ensure the video is behind other elements */
-  background-color: #000; /* Fallback color */
+  z-index: -1;
 }
 
 .team-header {
-  background-color: rgba(51, 51, 51, 0.8); /* Slightly transparent header */
+  background-color: #333;
   padding: 20px;
   color: #ffffff;
   border-radius: 8px;
@@ -40,7 +40,7 @@
 .team-section {
   margin: 20px;
   padding: 20px;
-  background-color: rgba(42, 42, 42, 0.8); /* Slightly transparent section background */
+  background-color: #2a2a2a;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
   width: 300px;
@@ -52,7 +52,7 @@
 
 .team-section:hover {
   transform: scale(1.05);
-  background-color: rgba(58, 58, 58, 0.8);
+  background-color: #3a3a3a;
 }
 
 .team-section h2 {
