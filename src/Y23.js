@@ -1,21 +1,21 @@
 import React from 'react';
 import Header from './Header';
 import './Team.css'; // Use the same CSS or create specific CSS for each year
-import teamPhoto1 from './teamPhoto1.jpg';
-import teamPhoto2 from './teamPhoto2.jpg';
+import teamPhoto12 from './teamPhoto12.jpg';
+import teamPhoto16 from './teamPhoto16.jpg';
 // ... import other photos
 
 const Y23 = () => {
   const teamMembers = [
     {
-      name: 'Dr.Nilu Singh',
-      role: 'Faculty Incharge',
-      photo: teamPhoto1,
+      name: 'M.Mani Dileep',
+      role: 'Technical Core',
+      photo: teamPhoto12,
     },
     {
-      name: 'Gullapalli Venkat',
-      role: 'President & Website Development',
-      photo: teamPhoto2,
+      name: 'G.Jyothsna',
+      role: 'Technical Core',
+      photo: teamPhoto16,
     },
     // ... add other team members
   ];
