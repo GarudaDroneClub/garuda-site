@@ -2,6 +2,8 @@ import React from 'react';
 import Header from './Header';
 import './Team.css'; // Use the same CSS or create specific CSS for each year
 import teamPhoto11 from './teamPhoto11.jpg';
+import teamPhoto18 from './teamPhoto18.jpg';
+
 // ... import other photos
 
 const Y21 = () => {
@@ -11,7 +13,11 @@ const Y21 = () => {
       role: 'Technical Core',
       photo: teamPhoto11,
     },
-    
+     {
+      name: 'P.Anvitha',
+      role: 'Technical Core',
+      photo: teamPhoto18,
+    },
     // ... add other team members
   ];
 
