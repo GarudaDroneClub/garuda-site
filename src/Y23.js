@@ -3,6 +3,8 @@ import Header from './Header';
 import './Team.css'; // Use the same CSS or create specific CSS for each year
 import teamPhoto12 from './teamPhoto12.jpg';
 import teamPhoto16 from './teamPhoto16.jpg';
+import teamPhoto17 from './teamPhoto17.jpg';
+
 // ... import other photos
 
 const Y23 = () => {
@@ -16,6 +18,11 @@ const Y23 = () => {
       name: 'G.Jyothsna',
       role: 'Technical Core',
       photo: teamPhoto16,
+    },
+    {
+      name: 'T.Gowtham',
+      role: 'Technical Core',
+      photo: teamPhoto17,
     },
     // ... add other team members
   ];
