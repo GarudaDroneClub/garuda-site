@@ -38,7 +38,7 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  margin-top: 20px;
+  margin-top: 10px;
   background: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
   border-radius: 8px;
   padding: 20px;
