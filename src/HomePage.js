@@ -1,6 +1,5 @@
 import React from 'react';
 import './HomePage.css';
-import logo from './logo.png';
 import backgroundVideo from './backgroundVideo.mp4';
 import Header from './Header';
 
@@ -13,7 +12,6 @@ const HomePage = () => {
         Your browser does not support the video tag.
       </video>
       <header className="home-header">
-        <img src={logo} alt="GARUDA Logo" className="home-logo" />
         <h1>Welcome to KL- GARUDA Drone Technology Club</h1>
         <p>Innovating the future of drones and technology.</p>
       </header>
