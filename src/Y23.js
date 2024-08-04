@@ -21,7 +21,7 @@ const Y23 = () => {
       photo: teamPhoto16,
     },
     {
-      name: 'T.Gowtham',
+      name: 'T.Gowtham Sai',
       role: 'Technical Core',
       photo: teamPhoto17,
     },
