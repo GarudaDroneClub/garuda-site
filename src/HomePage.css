@@ -32,6 +32,10 @@
   margin-bottom: 20px;
 }
 
+.home-header h1 {
+  color: #cccccc; /* Darker text color for the h1 element */
+}
+
 .home-content {
   display: flex;
   flex-wrap: wrap;
