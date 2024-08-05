@@ -9,7 +9,7 @@ import teamPhoto18 from './teamPhoto18.jpg';
 const Y21 = () => {
   const teamMembers = [
     {
-      name: 'B.Mahesh',
+      name: 'B.Manesh',
       role: 'Technical Core',
       photo: teamPhoto11,
     },
