@@ -13,6 +13,10 @@ import teamPhoto10 from './teamPhoto10.jpg';
 import teamPhoto13 from './teamPhoto13.jpg';
 import teamPhoto14 from './teamPhoto14.jpg';
 import teamPhoto15 from './teamPhoto15.jpg';
+import teamPhoto19 from './teamPhoto19.jpg';
+import teamPhoto20 from './teamPhoto20.jpg';
+import teamPhoto21 from './teamPhoto21.jpg';
+
 // ... import other photos
 
 const Y22 = () => {
@@ -54,9 +58,24 @@ const Y22 = () => {
       photo: teamPhoto8,
     },
     {
-      name: 'Shine Sharon ',
+      name: 'Ch.Shine Sharon ',
       role: 'Technical Core',
       photo: teamPhoto9,
+    },
+     {
+      name: 'Ch.Smile Sofia ',
+      role: 'Technical Core',
+      photo: teamPhoto18,
+    },
+     {
+      name: 'A.Harshini ',
+      role: 'Technical Core',
+      photo: teamPhoto19,
+    },
+     {
+      name: 'P.Thanmaie ',
+      role: 'Technical Core',
+      photo: teamPhoto20,
     },
     {
       name: 'Md.Arze Hayat',
