@@ -12,10 +12,9 @@ const FI = () => {
           <img src={teamPhoto} alt="GARUDA Drone Technology Club Team" />
         </div>
         <div className="fi-text">
-          <h2>Team Information</h2>
+          <h2>Dr.Nilu Singh</h2>
           <p>
-            This is some default text about the team. You can include details about the team's achievements,
-            goals, members, and other relevant information here.
+            Dr.Nilu Singh,PHD is the club incharge and the power behind the progressive success of out Club.
           </p>
         </div>
       </div>
