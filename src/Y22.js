@@ -65,17 +65,17 @@ const Y22 = () => {
      {
       name: 'Ch.Smile Sofia ',
       role: 'Technical Core',
-      photo: teamPhoto18,
+      photo: teamPhoto19,
     },
      {
       name: 'A.Harshini ',
       role: 'Technical Core',
-      photo: teamPhoto19,
+      photo: teamPhoto20,
     },
      {
       name: 'P.Thanmaie ',
       role: 'Technical Core',
-      photo: teamPhoto20,
+      photo: teamPhoto21,
     },
     {
       name: 'Md.Arze Hayat',
