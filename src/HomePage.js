@@ -11,10 +11,11 @@ const HomePage = () => {
         <source src={backgroundVideo} type="video/mp4" />
         Your browser does not support the video tag.
       </video>
-          <section className="home-content">
-
+      <header className="home-header">
         <h1>Welcome to KL- GARUDA Drone Technology Club</h1>
         <p>Innovating the future of drones and technology.</p>
+      </header>
+      <section className="home-content">
         <a href="/about" className="home-section">
           <h2>About Us</h2>
         </a>
