@@ -14,8 +14,7 @@ const FI = () => {
         <div className="fi-text">
           <h2>Dr.Nilu Singh</h2>
           <p>
-            Dr.Nilu Singh,PHD is the club incharge and the power behind the progressive success of our Club.
-            She has been constantly encouraging us in making better projects everytime and has been a constant support.
+            Dr. Nilu Singh, Ph.D.,  is the Club Incharge and is the driving force behind our club's progressive success. Her unwavering support and continual encouragement have been instrumental in guiding us to create increasingly better projects.
           </p>
         </div>
       </div>
