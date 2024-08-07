@@ -1,21 +1,51 @@
 import React from 'react';
 import Header from './Header';
 import './Team.css'; // Use the same CSS or create specific CSS for each year
-import teamPhoto1 from './teamPhoto1.jpg';
-import teamPhoto2 from './teamPhoto2.jpg';
-// ... import other photos
+import teamPhoto22 from './teamPhoto22.jpg';
+import teamPhoto23 from './teamPhoto23.jpg';
+import teamPhoto24 from './teamPhoto24.jpg';
+import teamPhoto25 from './teamPhoto25.jpg';
+import teamPhoto26 from './teamPhoto26.jpg';
+import teamPhoto27 from './teamPhoto27.jpg';
+import teamPhoto28 from './teamPhoto28.jpg';
+  // ... import other photos
 
 const Y20 = () => {
   const teamMembers = [
     {
-      name: 'Dr.Nilu Singh',
-      role: 'Faculty Incharge',
-      photo: teamPhoto1,
+      name: 'N.Likhitha',
+      role: 'President',
+      photo: teamPhoto22,
     },
     {
-      name: 'Gullapalli Venkat',
-      role: 'President & Website Development',
-      photo: teamPhoto2,
+      name: 'N Naga Sai Venkat',
+      role: 'Vice President',
+      photo: teamPhoto23,
+    },
+      {
+      name: 'N Sumadhur Royal',
+      role: 'Secretary',
+      photo: teamPhoto24,
+    },
+      {
+      name: 'G Siddhartha',
+      role: 'Mentor',
+      photo: teamPhoto25,
+    },
+      {
+      name: 'K Prasasthi',
+      role: 'Technical Core',
+      photo: teamPhoto26,
+    },
+      {
+      name: 'K Siri Chandana',
+      role: 'Technical Core',
+      photo: teamPhoto27,
+    },
+    {
+      name: 'P Likhitha',
+      role: 'Technical Core',
+      photo: teamPhoto28,
     },
     // ... add other team members
   ];
