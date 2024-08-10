@@ -23,7 +23,7 @@ const About = () => {
         <a href="https://www.instagram.com/kl_garuda/" target="_blank" rel="noopener noreferrer">
           <img src={instagramIcon} alt="Instagram" className="social-icon" />
         </a>
-        <a href="https://t.me/klgaruda" target="_blank" rel="noopener noreferrer">
+        <a href="https://t.me/+PyZu5e4v7R4wNDI1" target="_blank" rel="noopener noreferrer">
           <img src={telegramIcon} alt="Telegram" className="social-icon" />
         </a>
         <a href="https://www.linkedin.com/company/garuda-drone-technology-club/" target="_blank" rel="noopener noreferrer">
