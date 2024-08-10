@@ -14,7 +14,7 @@ import PastEventPhoto11 from './PastEventPhoto11.jpg';
 import PastEventPhoto12 from './PastEventPhoto12.jpg'; 
 import PastEventPhoto13 from './PastEventPhoto13.jpg'; 
 import PastEventPhoto14 from './PastEventPhoto14.jpg'; 
-import PastEventPhoto14 from './PastEventPhoto15.jpg'; 
+import PastEventPhoto15 from './PastEventPhoto15.jpg'; 
 
 import Header from './Header';
 
