@@ -14,6 +14,8 @@ import PastEventPhoto11 from './PastEventPhoto11.jpg';
 import PastEventPhoto12 from './PastEventPhoto12.jpg'; 
 import PastEventPhoto13 from './PastEventPhoto13.jpg'; 
 import PastEventPhoto14 from './PastEventPhoto14.jpg'; 
+import PastEventPhoto14 from './PastEventPhoto15.jpg'; 
+
 import Header from './Header';
 
 
@@ -42,6 +44,8 @@ const PastEvents = () => {
         <div className="event-item"><img src={PastEventPhoto14} alt="Past Event" className="events-photo" /></div>
       </div>
       <h4>2024-2025</h4>
+            <div className="event-item"><img src={PastEventPhoto15} alt="Past Event" className="events-photo" /></div>
+
     </div>
   );
 };
