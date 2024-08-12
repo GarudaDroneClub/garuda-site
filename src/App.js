@@ -13,6 +13,7 @@ import Y23 from './Y23';
 import FI from './FI';
 import Contact from './Contact';
 import Header from './Header';
+import Gallery from './Gallery';
 
 const App = () => {
   return (
@@ -31,6 +32,7 @@ const App = () => {
         <Route path="/team/fi" element={<FI />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/header" element={<Header />} />
+        <Route path="/gallery" element={<Gallery />} />
       </Routes>
     </Router>
   );
