@@ -32,9 +32,13 @@ const HomePage = () => {
           <a href="/team" className="home-section">
             <h2>Team</h2>
           </a>
+          <a href="/gallery" className="home-section">
+            <h2>Gallery</h2>
+          </a>
           <a href="/contact" className="home-section">
             <h2>Contact Us</h2>
           </a>
+          
         </section>
       </div>
       <footer className="home-footer">
