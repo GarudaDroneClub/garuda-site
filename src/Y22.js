@@ -7,7 +7,6 @@ import teamPhoto4 from './teamPhoto4.jpg';
 import teamPhoto5 from './teamPhoto5.jpg';
 import teamPhoto6 from './teamPhoto6.jpg';
 import teamPhoto7 from './teamPhoto7.jpg';
-import teamPhoto8 from './teamPhoto8.jpg';
 import teamPhoto9 from './teamPhoto9.jpg';
 import teamPhoto10 from './teamPhoto10.jpg';
 import teamPhoto13 from './teamPhoto13.jpg';
@@ -51,11 +50,7 @@ const Y22 = () => {
       role: 'Technical Core',
       photo: teamPhoto7,
     },
-    {
-      name: 'Kaif Baig',
-      role: 'Technical Core',
-      photo: teamPhoto8,
-    },
+    
     {
       name: 'Ch.Shine Sharon ',
       role: 'Technical Core',
