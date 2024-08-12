@@ -3,11 +3,11 @@ import './Gallery.css';
 import GalleryPhoto1 from './GalleryPhoto1.jpg'; // Replace with actual paths
 import GalleryPhoto2 from './GalleryPhoto2.jpg';
 import GalleryPhoto3 from './GalleryPhoto3.jpg';
-import GalleryPhoto4 from './GalleryPhoto3.jpg';
-import GalleryPhoto5 from './GalleryPhoto3.jpg';
-import GalleryPhoto6 from './GalleryPhoto3.jpg';
-import GalleryPhoto7 from './GalleryPhoto3.jpg';
-import GalleryPhoto8 from './GalleryPhoto3.jpg';
+import GalleryPhoto4 from './GalleryPhoto4.jpg';
+import GalleryPhoto5 from './GalleryPhoto5.jpg';
+import GalleryPhoto6 from './GalleryPhoto6.jpg';
+import GalleryPhoto7 from './GalleryPhoto7.jpg';
+import GalleryPhoto8 from './GalleryPhoto8.jpg';
 import GalleryVideo1 from './GalleryVideo1.mp4';
 import Header from './Header';
 
