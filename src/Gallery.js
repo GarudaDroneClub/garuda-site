@@ -8,7 +8,14 @@ import GalleryPhoto5 from './GalleryPhoto5.jpg';
 import GalleryPhoto6 from './GalleryPhoto6.jpg';
 import GalleryPhoto7 from './GalleryPhoto7.jpg';
 import GalleryPhoto8 from './GalleryPhoto8.jpg';
+import GalleryPhoto9 from './GalleryPhoto9.jpg';
+import GalleryPhoto10 from './GalleryPhoto10.jpg';
+import GalleryPhoto11 from './GalleryPhoto11.jpg';
 import GalleryVideo1 from './GalleryVideo1.mp4';
+import GalleryVideo2 from './GalleryVideo2.mp4';
+import GalleryVideo4 from './GalleryVideo4.mp4';
+import GalleryVideo5 from './GalleryVideo5.mp4';
+
 import Header from './Header';
 
 const Gallery = () => {
@@ -44,12 +51,24 @@ const Gallery = () => {
         </div>  
   <div className="gallery-item">
           <img src={GalleryPhoto8} alt="Gallery Photo 8" className="gallery-photo" />
-        </div>  
+        </div> 
+     <div className="gallery-item">
+          <img src={GalleryPhoto9} alt="Gallery Photo 9" className="gallery-photo" />
+        </div> 
+   <div className="gallery-item">
+          <img src={GalleryPhoto10} alt="Gallery Photo 10" className="gallery-photo" />
+        </div> 
+   <div className="gallery-item">
+          <img src={GalleryPhoto11} alt="Gallery Photo 11" className="gallery-photo" />
+        </div> 
   
         {/* Videos */}
         <div className="gallery-item">
           <video controls className="gallery-video">
             <source src={GalleryVideo1} type="video/mp4" />
+            <source src={GalleryVideo2} type="video/mp4" />
+            <source src={GalleryVideo4} type="video/mp4" />
+            <source src={GalleryVideo5} type="video/mp4" />
             Your browser does not support the video tag.
           </video>
         </div>
