@@ -10,7 +10,6 @@ import GalleryPhoto7 from './GalleryPhoto7.jpg';
 import GalleryPhoto8 from './GalleryPhoto8.jpg';
 import GalleryPhoto9 from './GalleryPhoto9.jpg';
 import GalleryPhoto10 from './GalleryPhoto10.jpg';
-import GalleryPhoto11 from './GalleryPhoto11.jpg';
 import GalleryVideo1 from './GalleryVideo1.mp4';
 import GalleryVideo2 from './GalleryVideo2.mp4';
 import GalleryVideo4 from './GalleryVideo4.mp4';
@@ -58,9 +57,7 @@ const Gallery = () => {
    <div className="gallery-item">
           <img src={GalleryPhoto10} alt="Gallery Photo 10" className="gallery-photo" />
         </div> 
-   <div className="gallery-item">
-          <img src={GalleryPhoto11} alt="Gallery Photo 11" className="gallery-photo" />
-        </div> 
+   
   
         {/* Videos */}
         <div className="gallery-item">
