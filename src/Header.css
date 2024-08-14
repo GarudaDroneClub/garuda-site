@@ -24,7 +24,7 @@
     color: #ffffff;
     text-decoration: none;
     padding: 10px 15px;
-    background-color: rgba(245, 245, 245, 0.2); /* Light smoke color with initial transparency */
+    background-color: rgba(103, 103, 107, 1); /* Light smoke color with initial transparency */
     border-radius: 5px;
     transition: background-color 0.3s, color 0.3s;
 }
