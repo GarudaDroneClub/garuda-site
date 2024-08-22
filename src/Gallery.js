@@ -14,6 +14,7 @@ import GalleryVideo1 from './GalleryVideo1.mp4';
 import GalleryVideo2 from './GalleryVideo2.mp4';
 import GalleryVideo4 from './GalleryVideo4.mp4';
 import GalleryVideo5 from './GalleryVideo5.mp4';
+import GalleryVideo6 from './GalleryVideo6.mp4';
 
 import Header from './Header';
 
@@ -81,6 +82,12 @@ const Gallery = () => {
         <div className="gallery-item">
           <video controls className="gallery-video">
             <source src={GalleryVideo5} type="video/mp4" />
+            Your browser does not support the video tag.
+          </video>
+        </div>
+<div className="gallery-item">
+          <video controls className="gallery-video">
+            <source src={GalleryVideo10} type="video/mp4" />
             Your browser does not support the video tag.
           </video>
         </div>
