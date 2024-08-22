@@ -87,7 +87,7 @@ const Gallery = () => {
         </div>
 <div className="gallery-item">
           <video controls className="gallery-video">
-            <source src={GalleryVideo10} type="video/mp4" />
+            <source src={GalleryVideo6} type="video/mp4" />
             Your browser does not support the video tag.
           </video>
         </div>
