@@ -1,14 +1,13 @@
-/* UpcomingEvents.css */
 .events-container {
   text-align: center;
   padding: 20px;
-  background-color: #1c1c1c; /* Dark background color */
-  color: #ffffff; /* Light text color */
+  background-color: #1c1c1c;
+  color: #ffffff;
   min-height: 100vh;
 }
 
 .events-header {
-  background-color: #333; /* Darker header background */
+  background-color: #333;
   padding: 20px;
   color: #ffffff;
   border-radius: 8px;
@@ -17,18 +16,23 @@
 }
 
 .events-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center text and photo */
   max-width: 800px;
   margin: 0 auto;
   padding: 20px;
-  background-color: #2a2a2a; /* Dark section background */
+  background-color: #2a2a2a;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
   text-align: left;
+  line-height: 1.6; /* Improved readability */
+  letter-spacing: 0.5px; /* Adds space between letters */
 }
 
 .events-photo {
-  display: block; /* Ensures the image is treated as a block element */
-  margin: 20px auto; /* Centers the image horizontally */
+  display: block;
+  margin: 20px auto;
   width: 100%;
   max-width: 600px;
   height: auto;
@@ -37,11 +41,18 @@
 }
 
 .events-content h3 {
-  color: #ff6666; /* Accent color for headings */
+  color: #ff6666;
+  font-size: 1.8rem; /* Increased font size */
+  margin-bottom: 10px;
+  font-family: 'Arial', sans-serif; /* Clean font */
 }
 
 .events-content p {
-  color: #dddddd; /* Light text color for readability */
+  color: #dddddd;
+  font-size: 1.1rem;
+  line-height: 1.8; /* Better spacing */
+  margin-bottom: 20px;
+  font-family: 'Roboto', sans-serif; /* Modern font */
 }
 
 .social-links {
@@ -49,7 +60,7 @@
 }
 
 .social-icon {
-  width: 200px; /* Adjust this value to increase the horizontal size */
-  height: 80px; /* Keep the vertical size the same */
+  width: 200px;
+  height: 80px;
   margin: 0 10px;
 }
