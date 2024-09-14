@@ -15,7 +15,7 @@ const UpcomingEvents = () => {
       </header>
       <div className="events-content">
         <img src={drone101} alt="Upcoming Event" className="events-photo" />
-        <p>Hello Drone Aspirants
+        <p>Hello Drone Aspirants!!
 We the team of Garuda Drone Technology Club invite you to join us in "DRONE 101" , An exciting introductory seminar on Drones
 Date: 19/09/24
 Time: 5:30 PM to 7PM
