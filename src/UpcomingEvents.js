@@ -1,6 +1,6 @@
 import React from 'react';
 import './UpcomingEvents.css';
-import UpcomingEventPhoto from './UpcomingEventPhoto.jpg'; // Ensure this path is correct
+import drone101 from './drone101.png'; // Ensure this path is correct
 import SilIcon from './SilIcon.png'; // Ensure this path is correct
 import Header from './Header';
 
@@ -14,8 +14,16 @@ const UpcomingEvents = () => {
         <h2>Upcoming Events</h2>
       </header>
       <div className="events-content">
-        <img src={UpcomingEventPhoto} alt="Upcoming Event" className="events-photo" />
-        <p>Join us for our next event where we showcase the latest in drone technology and innovation...</p>
+        <img src={drone101} alt="Upcoming Event" className="events-photo" />
+        <p>Hello Drone Aspirants
+We the team of Garuda Drone Technology Club invite you to join us in "DRONE 101" , An exciting introductory seminar on Drones
+Date: 19/09/24
+Time: 5:30 PM to 7PM
+Venue : C325
+Registration Link - https://forms.office.com/r/gEzdHF3i3X
+Registrations will open from 8PM on 14th September until wednesday. Limited Slots Only!
+
+There is "NO"  Bus Facility for dayscholars.Please make a note of it.</p>
       </div>
       <div className="social-links">
         <a href="https://academics.klef.in/login" target="_blank" rel="noopener noreferrer">
