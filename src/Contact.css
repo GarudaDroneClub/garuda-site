@@ -25,4 +25,12 @@
   .contact-info a:hover {
     text-decoration: underline;
   }
-  
+  .tile {
+  transition: transform 0.1s ease-out;
+  will-change: transform;
+  perspective: 1000px;
+}
+
+.tile:hover {
+  transform: scale(1.05);
+}
