@@ -9,8 +9,24 @@ import linkedinIcon from './linkedinIcon.png';
 import youtubeIcon from './youtubeIcon.png';
 
 const About = () => {
+   const handleMouseMove = (e) => {
+    const items = document.querySelectorAll('.about-item');
+    items.forEach((item) => {
+      const rect = item.getBoundingClientRect();
+      const x = e.clientX - rect.left - rect.width / 2;
+      const y = e.clientY - rect.top - rect.height / 2;
+      item.style.transform = `rotateX(${y * -0.05}deg) rotateY(${x * 0.05}deg)`;
+    });
+  };
+
+  const resetTransform = () => {
+    const items = document.querySelectorAll('.about-item');
+    items.forEach((item) => {
+      item.style.transform = `rotateX(0deg) rotateY(0deg)`;
+    });
+  };
   return (
-    <div className="about-container" style={{ backgroundImage: `url(${backgroundImage})` }}>
+    <div className="about-container" style={{ backgroundImage: `url(${backgroundImage})` }} onMouseMove={handleMouseMove} onMouseLeave={resetTransform}>
       <Header /> {/* Include the Header component */}
       <header className="about-header">
         <h2>About Us</h2>
