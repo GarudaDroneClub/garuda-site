@@ -19,26 +19,11 @@ import GalleryVideo6 from './GalleryVideo6.mp4';
 import Header from './Header';
 
 const Gallery = () => {
-  const handleMouseMove = (e) => {
-    const items = document.querySelectorAll('.gallery-item');
-    items.forEach((item) => {
-      const rect = item.getBoundingClientRect();
-      const x = e.clientX - rect.left - rect.width / 2;
-      const y = e.clientY - rect.top - rect.height / 2;
-      item.style.transform = `rotateX(${y * -0.05}deg) rotateY(${x * 0.05}deg)`;
-    });
-  };
 
-  const resetTransform = () => {
-    const items = document.querySelectorAll('.gallery-item');
-    items.forEach((item) => {
-      item.style.transform = `rotateX(0deg) rotateY(0deg)`;
-    });
-  };
 
   return (
     
-    <div className="gallery-container" onMouseMove={handleMouseMove} onMouseLeave={resetTransform}>
+    <div className="gallery-container" >
       <Header />
       <header className="gallery-header">
         <h2>Gallery</h2>
