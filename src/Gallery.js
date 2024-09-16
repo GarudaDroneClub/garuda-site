@@ -1,6 +1,5 @@
 import React from 'react';
 import './Gallery.css';
-import { applyTiltEffect } from './tiltEffect';
 import GalleryPhoto1 from './GalleryPhoto1.jpg'; // Replace with actual paths
 import GalleryPhoto2 from './GalleryPhoto2.jpg';
 import GalleryPhoto3 from './GalleryPhoto3.jpg';
@@ -20,9 +19,7 @@ import GalleryVideo6 from './GalleryVideo6.mp4';
 import Header from './Header';
 
 const Gallery = () => {
-   useEffect(() => {
-    applyTiltEffect('.tilt-tile');
-  }, []);
+
   return (
     <div className="gallery-container">
       <Header />
@@ -32,7 +29,7 @@ const Gallery = () => {
       </header>
       <div className="gallery-content">
         {/* Photos */}
-        <div className="gallery-item tilt-tile">
+        <div className="gallery-item">
           <img src={GalleryPhoto1} alt="Gallery Photo 1" className="gallery-photo" />
         </div>
         <div className="gallery-item">
