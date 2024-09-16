@@ -65,3 +65,12 @@
   height: 80px;
   margin: 0 10px;
 }
+.tile {
+  transition: transform 0.1s ease-out;
+  will-change: transform;
+  perspective: 1000px;
+}
+
+.tile:hover {
+  transform: scale(1.05);
+}
