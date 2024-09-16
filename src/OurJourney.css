@@ -42,12 +42,3 @@
   .journey-content p {
     color: #dddddd; /* Light text color for readability */
   }
-  .tile {
-  transition: transform 0.1s ease-out;
-  will-change: transform;
-  perspective: 1000px;
-}
-
-.tile:hover {
-  transform: scale(1.05);
-}
