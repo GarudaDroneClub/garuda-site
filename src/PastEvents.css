@@ -55,12 +55,3 @@
   color: #dddddd; /* Light text color for readability */
   font-size: 1.2em; /* Increase text size */
 }
-.tile {
-  transition: transform 0.1s ease-out;
-  will-change: transform;
-  perspective: 1000px;
-}
-
-.tile:hover {
-  transform: scale(1.05);
-}
