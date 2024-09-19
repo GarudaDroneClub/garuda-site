@@ -45,14 +45,4 @@
   margin: 10px 0;
 }
 
-.events-content h3 {
-  color: #ff6666; /* Accent color for headings */
-  font-size: 1.5em; /* Increase heading size */
-}
 
-.events-content p {
-   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Adjust column width as needed */
-  gap: 20px;
-  justify-items: center;
-}
