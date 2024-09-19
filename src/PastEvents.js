@@ -42,12 +42,12 @@ const PastEvents = () => {
         <div className="event-item"><img src={PastEventPhoto12} alt="Past Event" className="events-photo" /></div>
         <div className="event-item"><img src={PastEventPhoto13} alt="Past Event" className="events-photo" /></div>
         <div className="event-item"><img src={PastEventPhoto14} alt="Past Event" className="events-photo" /></div>
-      
+        </div>
+
       <h4>2024-2025</h4>
             <div className="event-item"><img src={PastEventPhoto15} alt="Past Event" className="events-photo" /></div>
 
     </div>
-  </div>
   );
 };
 
