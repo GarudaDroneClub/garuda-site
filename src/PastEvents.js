@@ -54,6 +54,7 @@ const PastEvents = () => {
         </div>
 
     </div>
+    </div>
   );
 };
 
