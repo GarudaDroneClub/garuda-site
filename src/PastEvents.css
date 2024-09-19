@@ -45,4 +45,21 @@
   margin: 10px 0;
 }
 
+.events-content h3 {
+  color: #ff6666; /* Accent color for headings */
+  font-size: 1.5em; /* Increase heading size */
+}
 
+.events-content p {
+  color: #dddddd; /* Light text color for readability */
+  font-size: 1.2em; /* Increase text size */
+}
+.events-content h4 {
+  color: #ff6666; /* Accent color for headings */
+  font-size: 1.5em; /* Increase heading size */
+}
+
+.events-content p {
+  color: #dddddd; /* Light text color for readability */
+  font-size: 1.2em; /* Increase text size */
+}
