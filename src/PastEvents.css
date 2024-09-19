@@ -51,6 +51,8 @@
 }
 
 .events-content p {
-  color: #dddddd; /* Light text color for readability */
-  font-size: 1.2em; /* Increase text size */
+   display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Adjust column width as needed */
+  gap: 20px;
+  justify-items: center;
 }
