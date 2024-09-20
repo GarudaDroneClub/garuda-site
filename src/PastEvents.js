@@ -16,7 +16,7 @@ import PastEventPhoto13 from './PastEventPhoto13.jpg';
 import PastEventPhoto14 from './PastEventPhoto14.jpg';
 import PastEventPhoto15 from './PastEventPhoto15.jpg';
 import drone101 from './drone101.png';
-import drone102 from './drone102.jpg';
+import drone1012 from './drone1012.jpg';
 
 
 import Header from './Header';
