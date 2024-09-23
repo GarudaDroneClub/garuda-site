@@ -16,6 +16,8 @@ const Header = () => {
         <Link to="/upcoming-events" className="nav-link">Upcoming Events</Link>
         <Link to="/past-events" className="nav-link">Past Events</Link>
         <Link to="/team" className="nav-link">Team</Link>
+            <Link to="/achievements" className="nav-link">Achievements</Link>
+
             <Link to="/gallery" className="nav-link">Gallery</Link>
         <Link to="/contact" className="nav-link">Contact Us</Link>
       </nav>
