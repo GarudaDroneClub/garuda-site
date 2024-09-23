@@ -1,5 +1,8 @@
 import React from 'react';
 import './Gallery.css';
+import Header from './Header';
+
+// Import photos and videos
 import GalleryPhoto1 from './GalleryPhoto1.jpg'; // Replace with actual paths
 import GalleryPhoto2 from './GalleryPhoto2.jpg';
 import GalleryPhoto3 from './GalleryPhoto3.jpg';
@@ -16,85 +19,42 @@ import GalleryVideo4 from './GalleryVideo4.mp4';
 import GalleryVideo5 from './GalleryVideo5.mp4';
 import GalleryVideo6 from './GalleryVideo6.mp4';
 
-import Header from './Header';
-
 const Gallery = () => {
+  // Create arrays for photos and videos
+  const photos = [
+    GalleryPhoto1, GalleryPhoto2, GalleryPhoto3, GalleryPhoto4, 
+    GalleryPhoto5, GalleryPhoto6, GalleryPhoto7, GalleryPhoto8, 
+    GalleryPhoto9, GalleryPhoto10
+  ];
 
+  const videos = [
+    GalleryVideo1, GalleryVideo2, GalleryVideo4, GalleryVideo5, GalleryVideo6
+  ];
 
   return (
-    
-    <div className="gallery-container" >
+    <div className="gallery-container">
       <Header />
       <header className="gallery-header">
         <h2>Gallery</h2>
         <h3>Photos & Videos</h3>
       </header>
       <div className="gallery-content">
-        {/* Photos */}
-        <div className="gallery-item">
-          <img src={GalleryPhoto1} alt="Gallery Photo 1" className="gallery-photo" />
-        </div>
-        <div className="gallery-item">
-          <img src={GalleryPhoto2} alt="Gallery Photo 2" className="gallery-photo" />
-        </div>
-        <div className="gallery-item">
-          <img src={GalleryPhoto3} alt="Gallery Photo 3" className="gallery-photo" />
-        </div>  
-  <div className="gallery-item">
-          <img src={GalleryPhoto4} alt="Gallery Photo 4" className="gallery-photo" />
-        </div>  
-  <div className="gallery-item">
-          <img src={GalleryPhoto5} alt="Gallery Photo 5" className="gallery-photo" />
-        </div>  
-  <div className="gallery-item">
-          <img src={GalleryPhoto6} alt="Gallery Photo 6" className="gallery-photo" />
-        </div>  
-  <div className="gallery-item">
-          <img src={GalleryPhoto7} alt="Gallery Photo 7" className="gallery-photo" />
-        </div>  
-  <div className="gallery-item">
-          <img src={GalleryPhoto8} alt="Gallery Photo 8" className="gallery-photo" />
-        </div> 
-     <div className="gallery-item">
-          <img src={GalleryPhoto9} alt="Gallery Photo 9" className="gallery-photo" />
-        </div> 
-   <div className="gallery-item">
-          <img src={GalleryPhoto10} alt="Gallery Photo 10" className="gallery-photo" />
-        </div> 
-   
-  
-        {/* Videos */}
-        <div className="gallery-item">
-          <video controls className="gallery-video">
-            <source src={GalleryVideo1} type="video/mp4" />
-            Your browser does not support the video tag.
-          </video>
-        </div>
-        <div className="gallery-item">
-          <video controls className="gallery-video">
-            <source src={GalleryVideo2} type="video/mp4" />
-            Your browser does not support the video tag.
-          </video>
-        </div>
-        <div className="gallery-item">
-          <video controls className="gallery-video">
-            <source src={GalleryVideo4} type="video/mp4" />
-            Your browser does not support the video tag.
-          </video>
-        </div>
-        <div className="gallery-item">
-          <video controls className="gallery-video">
-            <source src={GalleryVideo5} type="video/mp4" />
-            Your browser does not support the video tag.
-          </video>
-        </div>
-<div className="gallery-item">
-          <video controls className="gallery-video">
-            <source src={GalleryVideo6} type="video/mp4" />
-            Your browser does not support the video tag.
-          </video>
-        </div>
-        {/* Add more photos/videos as needed */}
+        {/* Render photos */}
+        {photos.map((photo, index) => (
+          <div className="gallery-item" key={`photo-${index}`}>
+            <img src={photo} alt={`Gallery Photo ${index + 1}`} className="gallery-photo" />
+          </div>
+        ))}
+
+        {/* Render videos */}
+        {videos.map((video, index) => (
+          <div className="gallery-item" key={`video-${index}`}>
+            <video controls className="gallery-video">
+              <source src={video} type="video/mp4" />
+              Your browser does not support the video tag.
+            </video>
+          </div>
+        ))}
       </div>
     </div>
   );
