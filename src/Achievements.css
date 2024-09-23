@@ -1,16 +1,17 @@
 /* Achievements.css */
 .achievements-container {
   padding: 20px;
-  background-color: #f0f0f0;
+  background-color: #1c1c1c; /* Dark background color from Pastevents.css */
+  color: #ffffff; /* Light text color */
   min-height: 100vh;
 }
 
 .achievement-item {
   display: flex;
   align-items: center;
-  background-color: #fff;
-  border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  background-color: #2a2a2a; /* Dark section background from Pastevents.css */
+  border-radius: 8px; /* Match the rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Shadow box from Pastevents.css */
   margin: 20px 0;
   padding: 20px;
 }
@@ -18,8 +19,9 @@
 .achievement-photo {
   width: 200px;
   height: auto;
-  border-radius: 8px;
+  border-radius: 8px; /* Slightly rounded corners, like in Pastevents.css */
   margin-right: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Photo shadow like Pastevents.css */
 }
 
 .achievement-text {
@@ -27,6 +29,12 @@
 }
 
 .achievement-text p {
-  font-size: 16px;
-  color: #333;
+  font-size: 1.2em; /* Increase text size */
+  color: #dddddd; /* Light text color for readability from Pastevents.css */
+}
+
+h2 {
+  color: #ff6666; /* Accent color for headings from Pastevents.css */
+  font-size: 1.5em;
+  margin-bottom: 20px;
 }
