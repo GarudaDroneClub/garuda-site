@@ -1,40 +1,40 @@
-/* Achievements.css */
 .achievements-container {
   padding: 20px;
-  background-color: #1c1c1c; /* Dark background color from Pastevents.css */
+  background-color: #1c1c1c; /* Dark background color */
   color: #ffffff; /* Light text color */
   min-height: 100vh;
 }
 
 .achievement-item {
-  display: flex;
-  align-items: center;
-  background-color: #2a2a2a; /* Dark section background from Pastevents.css */
-  border-radius: 8px; /* Match the rounded corners */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Shadow box from Pastevents.css */
+  display: block; /* Change to block to stack elements vertically */
+  background-color: #2a2a2a; /* Dark section background */
+  border-radius: 8px; /* Rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Shadow box */
   margin: 20px 0;
   padding: 20px;
+  text-align: center; /* Center align text */
 }
 
 .achievement-photo {
-  width: 200px;
-  height: 200px;
-  border-radius: 8px; /* Slightly rounded corners, like in Pastevents.css */
-  margin-right: 20px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Photo shadow like Pastevents.css */
+  width: 100%; /* Make image full width */
+  max-width: 600px; /* Add a max width for large screens */
+  height: auto;
+  border-radius: 8px; /* Rounded corners */
+  margin-bottom: 20px; /* Space between image and text */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Photo shadow */
 }
 
 .achievement-text {
-  flex: 1;
+  text-align: center; /* Center align text under the image */
 }
 
 .achievement-text p {
   font-size: 1.2em; /* Increase text size */
-  color: #dddddd; /* Light text color for readability from Pastevents.css */
+  color: #dddddd; /* Light text color */
 }
 
 h2 {
-  color: #ff6666; /* Accent color for headings from Pastevents.css */
+  color: #ff6666; /* Accent color for headings */
   font-size: 1.5em;
   margin-bottom: 20px;
 }
