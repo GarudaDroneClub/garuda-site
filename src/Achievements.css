@@ -18,7 +18,7 @@
 
 .achievement-photo {
   width: 200px;
-  height: auto;
+  height: 200px;
   border-radius: 8px; /* Slightly rounded corners, like in Pastevents.css */
   margin-right: 20px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Photo shadow like Pastevents.css */
