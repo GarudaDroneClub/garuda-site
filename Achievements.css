@@ -1,0 +1,32 @@
+/* Achievements.css */
+.achievements-container {
+  padding: 20px;
+  background-color: #f0f0f0;
+  min-height: 100vh;
+}
+
+.achievement-item {
+  display: flex;
+  align-items: center;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  margin: 20px 0;
+  padding: 20px;
+}
+
+.achievement-photo {
+  width: 200px;
+  height: auto;
+  border-radius: 8px;
+  margin-right: 20px;
+}
+
+.achievement-text {
+  flex: 1;
+}
+
+.achievement-text p {
+  font-size: 16px;
+  color: #333;
+}
