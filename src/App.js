@@ -14,6 +14,7 @@ import FI from './FI';
 import Contact from './Contact';
 import Header from './Header';
 import Gallery from './Gallery';
+import Achievements from './Achievements'; // Import the Achievements page
 
 const App = () => {
   return (
@@ -33,6 +34,7 @@ const App = () => {
         <Route path="/contact" element={<Contact />} />
         <Route path="/header" element={<Header />} />
         <Route path="/gallery" element={<Gallery />} />
+        <Route path="/achievements" element={<Achievements />} /> {/* Add the new Achievements route */}
       </Routes>
     </Router>
   );
