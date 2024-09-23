@@ -10,11 +10,11 @@ const Achievements = () => {
   const achievements = [
     {
       image: AchievementPhoto1,
-      text: "Won the National Drone Competition 2023 for precision flying and innovative designs."
+      text: "Congratulations to Gullapalli Venkat, Challagulla Nithin, Ambati Harshini, Gullinkala Mouli Sagar, and Madala Yatish Datta for being selected for the Regional Level competition! Your innovative project, "Project Sanjeevani," demonstrates exceptional commitment to enhancing emergency response. Best of luck for your upcoming International Startup Festival National Ideathon"
     },
     {
       image: AchievementPhoto2,
-      text: "Awarded the Best Innovation in Drone Technology at Tech Expo 2022."
+      text: "Dear participants, as you embark on Round 2 of the Mahakumbh Hackathon 2025, I extend my heartfelt wishes for a journey filled with innovation, collaboration, and success. Your dedication and creativity have brought you to this stage, and I have no doubt that you will continue to showcase your exceptional talents. Embrace the challenges, learn from every moment, and let your passion drive you to new heights. May this round be a testament to your hard work and determination. Best wishes for an enriching and rewarding experience in Round 2 of the Mahakumbh Hackathon 2025! May your ideas flourish and your solutions inspire. Go team!"
     },
     // Add more achievements here
   ];
