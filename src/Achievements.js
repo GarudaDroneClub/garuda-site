@@ -1,5 +1,7 @@
 import React from 'react';
 import './Achievements.css';
+import Header from './Header'; // Import the Header component
+
 import AchievementPhoto1 from './AchievementPhoto1.jpg'; // Replace with actual paths
 import AchievementPhoto2 from './AchievementPhoto2.jpg';
 
@@ -19,6 +21,7 @@ const Achievements = () => {
 
   return (
     <div className="achievements-container">
+    <Header />
       <h2>Our Achievements</h2>
       {achievements.map((achievement, index) => (
         <div className="achievement-item" key={index}>
