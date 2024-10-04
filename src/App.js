@@ -15,6 +15,7 @@ import Contact from './Contact';
 import Header from './Header';
 import Gallery from './Gallery';
 import Achievements from './Achievements';
+import PastTeam from './PastTeam';
 
 
 const App = () => {
@@ -36,6 +37,8 @@ const App = () => {
         <Route path="/header" element={<Header />} />
         <Route path="/gallery" element={<Gallery />} />
             <Route path="/achievements" element={<Achievements />} />
+    <Route path="/team/past" element={<PastTeam />} />
+
 
       </Routes>
     </Router>
