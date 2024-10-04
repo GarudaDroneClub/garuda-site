@@ -30,19 +30,24 @@ const Y22 = () => {
       role: 'Vice-president & Alumni Relations',
       photo: teamPhoto3,
     },
+     {
+      name: 'A.Harshini ',
+      role: 'Technical Core',
+      photo: teamPhoto20,
+    },
     {
       name: 'V.Vishnu Vardhan',
-      role: 'Secretary',
+      role: 'Director R&D',
       photo: teamPhoto4,
     },
     {
       name: 'Mouli Sagar',
-      role: 'Mentor',
+      role: 'ADVISOR',
       photo: teamPhoto5,
     },
     {
       name: 'M.Yatish Datta',
-      role: 'Club Instructor',
+      role: 'Mentor',
       photo: teamPhoto6,
     },
     {
@@ -61,19 +66,15 @@ const Y22 = () => {
       role: 'Technical Core',
       photo: teamPhoto19,
     },
-     {
-      name: 'A.Harshini ',
-      role: 'Technical Core',
-      photo: teamPhoto20,
-    },
+    
      {
       name: 'P.Thanmaie ',
-      role: 'Technical Core',
+      role: 'Event Monitor',
       photo: teamPhoto21,
     },
     {
       name: 'Md.Arze Hayat',
-      role: 'Technical Core',
+      role: 'Event Handler',
       photo: teamPhoto10,
     },
     {
