@@ -10,12 +10,12 @@ const PastTeam = () => {
     {
       name: 'A. John',
       role: 'Former President',
-      photo: teamPhoto21,
+      photo: dumbdemo,
     },
     {
       name: 'B. Sarah',
       role: 'Former Vice President',
-      photo: teamPhoto21,
+      photo: dumbdemo,
     },
     // ... add more past team members
   ];
