@@ -2,7 +2,7 @@
 import React from 'react';
 import Header from './Header';
 import './Team.css';
-import teamPhoto21 from './teamPhoto21.jpg';
+import dumbdemo from './dumbdemo.png';
 // ...import other photos
 
 const PastTeam = () => {
