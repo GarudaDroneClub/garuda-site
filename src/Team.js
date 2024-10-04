@@ -28,6 +28,10 @@ const Team = () => {
         </Link>
         <Link to="/team/y20" className="team-section">
           <h2>Y20 - ALUMNI</h2>
+    <Link to="/team/past" className="team-section">
+  <h2>Past Team Members</h2>
+</Link>
+
         </Link>
       </div>
     </div>
