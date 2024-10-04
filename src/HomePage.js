@@ -45,7 +45,7 @@ const HomePage = () => {
         </section>
       </div>
       <footer className="home-footer">
-        <p>Developed by G. Venkat</p>
+        <p>Developed by G. Venkat and Ch.Nithin</p>
       </footer>
     </div>
   );
