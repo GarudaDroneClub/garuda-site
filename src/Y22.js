@@ -32,7 +32,7 @@ const Y22 = () => {
     },
      {
       name: 'A.Harshini ',
-      role: 'Technical Core',
+      role: 'Secretary',
       photo: teamPhoto20,
     },
     {
