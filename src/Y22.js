@@ -2,7 +2,7 @@ import React from 'react';
 import Header from './Header';
 import './Team.css'; // Use the same CSS or create specific CSS for each year
 import teamPhoto2 from './teamPhoto2.jpg';
-import teamPhoto3 from './teamPhoto3.jpg';
+import teamPhoto3 from './teamPhoto3.png';
 import teamPhoto4 from './teamPhoto4.jpg';
 import teamPhoto5 from './teamPhoto5.jpg';
 import teamPhoto6 from './teamPhoto6.jpg';
