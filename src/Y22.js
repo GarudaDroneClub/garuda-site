@@ -6,11 +6,8 @@ import teamPhoto3 from './teamPhoto3.png';
 import teamPhoto4 from './teamPhoto4.jpg';
 import teamPhoto5 from './teamPhoto5.jpg';
 import teamPhoto6 from './teamPhoto6.jpg';
-import teamPhoto7 from './teamPhoto7.jpg';
-import teamPhoto9 from './teamPhoto9.jpg';
 import teamPhoto10 from './teamPhoto10.jpg';
-import teamPhoto13 from './teamPhoto13.jpg';
-import teamPhoto14 from './teamPhoto14.jpg';
+
 import teamPhoto19 from './teamPhoto19.jpg';
 import teamPhoto20 from './teamPhoto20.jpg';
 import teamPhoto21 from './teamPhoto21.jpg';
@@ -50,17 +47,9 @@ const Y22 = () => {
       role: 'Mentor',
       photo: teamPhoto6,
     },
-    {
-      name: 'G.Jaya Ram Charan',
-      role: 'Technical Core',
-      photo: teamPhoto7,
-    },
+ 
     
-    {
-      name: 'Ch.Shine Sharon ',
-      role: 'Technical Core',
-      photo: teamPhoto9,
-    },
+
      {
       name: 'Ch.Smile Sofia ',
       role: 'Technical Core',
@@ -77,16 +66,7 @@ const Y22 = () => {
       role: 'Event Handler',
       photo: teamPhoto10,
     },
-    {
-      name: 'B.Ram Teja',
-      role: 'PR',
-      photo: teamPhoto13,
-    },
-    {
-      name: 'Siddarth Varma',
-      role: ' Design Team',
-      photo: teamPhoto14,
-    },
+
      
     // ... add other team members
   ];
