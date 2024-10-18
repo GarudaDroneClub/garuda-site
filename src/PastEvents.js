@@ -15,6 +15,14 @@ import PastEventPhoto12 from './PastEventPhoto12.jpg';
 import PastEventPhoto13 from './PastEventPhoto13.jpg';
 import PastEventPhoto14 from './PastEventPhoto14.jpg';
 import PastEventPhoto15 from './PastEventPhoto15.jpg';
+import PastEventPhoto16 from './PastEventPhoto16.jpg';
+import PastEventPhoto17 from './PastEventPhoto17.jpg';
+import PastEventPhoto18 from './PastEventPhoto18.jpg';
+import PastEventPhoto19 from './PastEventPhoto19.jpg';
+import PastEventPhoto20 from './PastEventPhoto20.jpg';
+import PastEventPhoto21 from './PastEventPhoto21.jpg';
+import PastEventPhoto22 from './PastEventPhoto22.jpg';
+import PastEventPhoto23 from './PastEventPhoto23.jpg';
 import drone101 from './drone101.png';
 import drone1012 from './drone1012.jpg';
 
@@ -43,6 +51,14 @@ const PastEvents = () => {
     PastEventPhoto15,
     drone101,
     drone1012,
+    PastEventPhoto16,
+    PastEventPhoto17,
+    PastEventPhoto18,
+  PastEventPhoto19,
+  PastEventPhoto20,
+  PastEventPhoto21,
+  PastEventPhoto22,
+  PastEventPhoto23,
   ];
 
   const renderEventPhotos = (events) => {
