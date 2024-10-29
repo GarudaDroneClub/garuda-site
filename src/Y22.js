@@ -34,7 +34,7 @@ const Y22 = () => {
     },
     {
       name: 'V.Vishnu Vardhan',
-      role: 'Director R&D',
+      role: 'Director',
       photo: teamPhoto4,
     },
     {
