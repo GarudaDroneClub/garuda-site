@@ -29,9 +29,6 @@ const Team = () => {
         <Link to="/team/y20" className="team-section">
           <h2>2022-2023</h2>
         </Link>
-    <Link to="/team/past" className="team-section">
-  <h2>Past Team Members</h2>
-</Link>
 
       </div>
     </div>
