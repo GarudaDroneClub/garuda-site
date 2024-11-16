@@ -1,16 +1,8 @@
 import React from 'react';
 import Header from './Header';
 import './Team.css'; // Reuse the same CSS for team styles
-import teamPhoto24_1 from './teamPhoto24_1.jpg';
-import teamPhoto24_2 from './teamPhoto24_2.jpg';
-import teamPhoto24_3 from './teamPhoto24_3.jpg';
-import teamPhoto24_4 from './teamPhoto24_4.jpg';
-import teamPhoto24_5 from './teamPhoto24_5.jpg';
-import teamPhoto24_6 from './teamPhoto24_6.jpg';
-import teamPhoto24_7 from './teamPhoto24_7.jpg';
-import teamPhoto24_8 from './teamPhoto24_8.jpg';
-import teamPhoto24_9 from './teamPhoto24_9.jpg';
-import teamPhoto24_10 from './teamPhoto24_10.jpg';
+import teamPhoto19 from './teamPhoto19.jpg';
+
 
 // ... import additional photos as necessary
 
@@ -19,53 +11,24 @@ const Y2024_2025 = () => {
     {
       name: 'John Doe',
       role: 'President',
-      photo: teamPhoto24_1,
+      photo: teamPhoto19,
     },
     {
       name: 'Jane Smith',
       role: 'Vice President',
-      photo: teamPhoto24_2,
+      photo: teamPhoto19,
     },
     {
       name: 'Emily Johnson',
       role: 'Secretary',
-      photo: teamPhoto24_3,
+      photo: teamPhoto19,
     },
     {
       name: 'Michael Brown',
       role: 'Advisor',
-      photo: teamPhoto24_4,
+      photo: teamPhoto19,
     },
-    {
-      name: 'Sarah Davis',
-      role: 'Event Manager',
-      photo: teamPhoto24_5,
-    },
-    {
-      name: 'David Wilson',
-      role: 'Technical Lead',
-      photo: teamPhoto24_6,
-    },
-    {
-      name: 'Sophia Martinez',
-      role: 'Marketing Head',
-      photo: teamPhoto24_7,
-    },
-    {
-      name: 'James Anderson',
-      role: 'Creative Head',
-      photo: teamPhoto24_8,
-    },
-    {
-      name: 'Linda Thomas',
-      role: 'Public Relations',
-      photo: teamPhoto24_9,
-    },
-    {
-      name: 'Robert Lee',
-      role: 'Operations Head',
-      photo: teamPhoto24_10,
-    },
+
     // Add more members if necessary
   ];
 
