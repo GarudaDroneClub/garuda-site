@@ -26,9 +26,7 @@ const App = () => {
         <Route path="/past-events" element={<PastEvents />} />
         <Route path="/team" element={<Team />} />
         <Route path="/team/y20" element={<Y20 />} />
-        <Route path="/team/y21" element={<Y21 />} />
         <Route path="/team/y22" element={<Y22 />} />
-        <Route path="/team/y23" element={<Y23 />} />
         <Route path="/team/fi" element={<FI />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/header" element={<Header />} />
