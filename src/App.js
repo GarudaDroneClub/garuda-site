@@ -9,11 +9,11 @@ import Team from './Team';
 import Y20 from './Y20';
 import Y22 from './Y22';
 import FI from './FI';
+import Y2024_2025 from './2024-2025';
 import Contact from './Contact';
 import Header from './Header';
 import Gallery from './Gallery';
 import Achievements from './Achievements';
-
 
 const App = () => {
   return (
@@ -28,12 +28,11 @@ const App = () => {
         <Route path="/team/y20" element={<Y20 />} />
         <Route path="/team/y22" element={<Y22 />} />
         <Route path="/team/fi" element={<FI />} />
+        <Route path="/team/2024-2025" element={<Y2024_2025 />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/header" element={<Header />} />
         <Route path="/gallery" element={<Gallery />} />
-            <Route path="/achievements" element={<Achievements />} />
-
-
+        <Route path="/achievements" element={<Achievements />} />
       </Routes>
     </Router>
   );
