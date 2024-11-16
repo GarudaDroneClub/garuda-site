@@ -1,38 +1,100 @@
 import React from 'react';
 import Header from './Header';
-import './Team.css'; // Reuse the same CSS for team styles
+import './Team.css'; // Use the same CSS or create specific CSS for each year
+import teamPhoto2 from './teamPhoto2.jpg';
+import teamPhoto3 from './teamPhoto3.png';
+import teamPhoto4 from './teamPhoto4.jpg';
+import teamPhoto5 from './teamPhoto5.jpg';
+import teamPhoto6 from './teamPhoto6.jpg';
+import teamPhoto10 from './teamPhoto10.jpg';
 import teamPhoto19 from './teamPhoto19.jpg';
+import teamPhoto20 from './teamPhoto20.jpg';
+import teamPhoto21 from './teamPhoto21.jpg';
+import teamPhoto11 from './teamPhoto11.jpg';
+import teamPhoto18 from './teamPhoto18.jpg';
+import teamPhoto12 from './teamPhoto12.jpg';
+import teamPhoto17 from './teamPhoto17.jpg';
 
-
-// ... import additional photos as necessary
+// ... import other photos
 
 const Y2024_2025 = () => {
   const teamMembers = [
+    
     {
-      name: 'John Doe',
-      role: 'President',
-      photo: teamPhoto19,
+      name: 'Gullapalli Venkat',
+      role: 'President & Website Development',
+      photo: teamPhoto2,
     },
     {
-      name: 'Jane Smith',
-      role: 'Vice President',
-      photo: teamPhoto19,
+      name: 'Ch.Nithin',
+      role: 'Vice-president & Alumni Relations',
+      photo: teamPhoto3,
     },
+    
     {
-      name: 'Emily Johnson',
+      name: 'V.Vishnu Vardhan',
       role: 'Secretary',
-      photo: teamPhoto19,
+      photo: teamPhoto4,
     },
     {
-      name: 'Michael Brown',
-      role: 'Advisor',
+      name: 'Mouli Sagar',
+      role: 'ADVISOR',
+      photo: teamPhoto5,
+    },
+    {
+      name: 'M.Yatish Datta',
+      role: 'Mentor',
+      photo: teamPhoto6,
+    },
+ {
+      name: 'A.Harshini ',
+      role: 'Technical Core',
+      photo: teamPhoto20,
+    },  
+
+     {
+      name: 'Ch.Smile Sofia ',
+      role: 'Technical Core',
       photo: teamPhoto19,
+    },
+    
+     {
+      name: 'P.Thanmaie ',
+      role: 'Event Monitor',
+      photo: teamPhoto21,
+    },
+    {
+      name: 'Md.Arze Hayat',
+      role: 'Event Handler',
+      photo: teamPhoto10,
+    },
+    {
+      name: 'B.Manesh',
+      role: 'Technical Core',
+      photo: teamPhoto11,
+    },
+     {
+      name: 'P.Anvitha',
+      role: 'Technical Core',
+      photo: teamPhoto18,
+    },
+     {
+      name: 'M.Mani Dileep',
+      role: 'Technical Core',
+      photo: teamPhoto12,
     },
 
-    // Add more members if necessary
+    {
+      name: 'T.Gowtham Sai',
+      role: 'Technical Core',
+      photo: teamPhoto17,
+    },
+
+     
+    // ... add other team members
   ];
 
-  return (
+ return (
     <div className="team-container">
       <Header />
       <header className="team-header">
