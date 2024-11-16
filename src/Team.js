@@ -19,6 +19,7 @@ const Team = () => {
         
         <Link to="/team/y22" className="team-section">
           <h2>2023-2024</h2>
+    </Link>
     
         <Link to="/team/y20" className="team-section">
           <h2>2022-2023</h2>
