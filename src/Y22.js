@@ -30,14 +30,10 @@ const Y22 = () => {
       role: 'Vice-president & Alumni Relations',
       photo: teamPhoto3,
     },
-     {
-      name: 'A.Harshini ',
-      role: 'Secretary',
-      photo: teamPhoto20,
-    },
+    
     {
       name: 'V.Vishnu Vardhan',
-      role: 'Director',
+      role: 'Secretary',
       photo: teamPhoto4,
     },
     {
@@ -50,8 +46,11 @@ const Y22 = () => {
       role: 'Mentor',
       photo: teamPhoto6,
     },
- 
-    
+ {
+      name: 'A.Harshini ',
+      role: 'Technical Core',
+      photo: teamPhoto20,
+    },  
 
      {
       name: 'Ch.Smile Sofia ',
