@@ -7,10 +7,13 @@ import teamPhoto4 from './teamPhoto4.jpg';
 import teamPhoto5 from './teamPhoto5.jpg';
 import teamPhoto6 from './teamPhoto6.jpg';
 import teamPhoto10 from './teamPhoto10.jpg';
-
 import teamPhoto19 from './teamPhoto19.jpg';
 import teamPhoto20 from './teamPhoto20.jpg';
 import teamPhoto21 from './teamPhoto21.jpg';
+import teamPhoto11 from './teamPhoto11.jpg';
+import teamPhoto18 from './teamPhoto18.jpg';
+import teamPhoto12 from './teamPhoto12.jpg';
+import teamPhoto17 from './teamPhoto17.jpg';
 
 // ... import other photos
 
@@ -65,6 +68,27 @@ const Y22 = () => {
       name: 'Md.Arze Hayat',
       role: 'Event Handler',
       photo: teamPhoto10,
+    },
+    {
+      name: 'B.Manesh',
+      role: 'Technical Core',
+      photo: teamPhoto11,
+    },
+     {
+      name: 'P.Anvitha',
+      role: 'Technical Core',
+      photo: teamPhoto18,
+    },
+     {
+      name: 'M.Mani Dileep',
+      role: 'Technical Core',
+      photo: teamPhoto12,
+    },
+
+    {
+      name: 'T.Gowtham Sai',
+      role: 'Technical Core',
+      photo: teamPhoto17,
     },
 
      
