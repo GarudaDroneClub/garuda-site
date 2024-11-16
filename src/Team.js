@@ -18,7 +18,7 @@ const Team = () => {
         
         
         <Link to="/team/y22" className="team-section">
-          <h2>Y22</h2>
+          <h2>2023-2024</h2>
         </Link>
         <Link to="/team/y23" className="team-section">
           <h2>Y23</h2>
@@ -27,7 +27,7 @@ const Team = () => {
           <h2>Y21</h2>
         </Link>
         <Link to="/team/y20" className="team-section">
-          <h2>Y20 - ALUMNI</h2>
+          <h2>2022-2023</h2>
         </Link>
     <Link to="/team/past" className="team-section">
   <h2>Past Team Members</h2>
