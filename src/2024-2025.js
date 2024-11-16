@@ -30,10 +30,15 @@ const Y2024_2025 = () => {
       role: 'Vice-president & Alumni Relations',
       photo: teamPhoto3,
     },
+    {
+      name: 'A.Harshini ',
+      role: 'Secretary',
+      photo: teamPhoto20,
+    },  
     
     {
       name: 'V.Vishnu Vardhan',
-      role: 'Secretary',
+      role: 'Director',
       photo: teamPhoto4,
     },
     {
@@ -46,11 +51,7 @@ const Y2024_2025 = () => {
       role: 'Mentor',
       photo: teamPhoto6,
     },
- {
-      name: 'A.Harshini ',
-      role: 'Technical Core',
-      photo: teamPhoto20,
-    },  
+ 
 
      {
       name: 'Ch.Smile Sofia ',
