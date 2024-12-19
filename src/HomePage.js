@@ -35,6 +35,9 @@ const HomePage = () => {
     <a href="/achievements" className="home-section">
             <h2>Our Achievements</h2>
           </a>
+     <a href="/projects" className="home-section">
+            <h2>Projects</h2> {/* Added Projects section */}
+          </a>
           <a href="/gallery" className="home-section">
             <h2>Gallery</h2>
           </a>
