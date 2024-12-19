@@ -1,0 +1,48 @@
+/* Container for projects section */
+.projects-container {
+  font-family: 'Arial', sans-serif;
+  padding: 25px 15px;
+  text-align: center;
+  background-color: #f0f0f0; /* Soft background color */
+}
+
+/* Individual project card */
+.project-card {
+  margin: 20px auto;
+  padding: 20px;
+  max-width: 500px;
+  background-color: #ffffff; /* White background */
+  border: 1px solid #ddd; /* Light border */
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15); /* Soft shadow */
+  transition: box-shadow 0.3s ease; /* Smooth shadow transition */
+}
+
+/* Hover effect for project cards */
+.project-card:hover {
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2); /* Darker shadow on hover */
+}
+
+/* Button styling for "View Details" */
+.view-details-button {
+  margin-top: 15px;
+  padding: 12px 24px;
+  background-color: #000000; /* Google blue */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 1em;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.2s ease-in-out;
+}
+
+/* Hover effect for the "View Details" button */
+.view-details-button:hover {
+  background-color: #000000; /* Darker blue on hover */
+  transform: translateY(-2px); /* Slight lift effect */
+}
+
+/* Active state for the button with a subtle click effect */
+.view-details-button:active {
+  transform: translateY(1px); /* Small push effect on click */
+}
