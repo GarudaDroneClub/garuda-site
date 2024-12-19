@@ -12,9 +12,9 @@ const Projects = () => {
     <div className="projects-container">
       {/* Including Header at the top of the page */}
       <Header />
-      
+
       <div className="projects-content">
-        <h1>Our Projects</h1>
+        <h1 className="projects-heading">Our Projects</h1>
 
         {/* Road Crack Detection */}
         <div className="project-card">
@@ -90,7 +90,6 @@ const Projects = () => {
             View Details
           </button>
         </div>
-
       </div>
     </div>
   );
