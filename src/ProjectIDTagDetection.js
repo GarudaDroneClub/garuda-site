@@ -1,7 +1,7 @@
 // src/ProjectIDTagDetection.js
 
 import React from 'react';
-import './ProjectIDTagDetection.css'; // Custom CSS for styling
+import './ProjectReport.css'; // Custom CSS for styling
 
 // Import the image from the 'src' folder
 import projectImage from './project-id-tag-detection.jpg'; // Correct import from the 'src' folder
