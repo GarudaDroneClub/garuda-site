@@ -1,3 +1,5 @@
+// src/App.js
+
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import HomePage from './HomePage';
@@ -14,6 +16,12 @@ import Contact from './Contact';
 import Header from './Header';
 import Gallery from './Gallery';
 import Achievements from './Achievements';
+import Projects from './Projects'; // Importing the Projects component
+import ProjectCrackDetection from './ProjectCrackDetection'; // Importing the Crack Detection page
+import ProjectMedicalDrone from './ProjectMedicalDrone'; // Importing the Medical Drone page
+import ProjectUniversitySurveillance from './ProjectUniversitySurveillance'; // Importing the University Surveillance page
+import ProjectVirtualTourDrones from './ProjectVirtualTourDrones'; // Importing the Virtual Tour Drones page
+import ProjectIDTagDetection from './ProjectIDTagDetection'; // Importing the Project ID Tag Detection page
 
 const App = () => {
   return (
@@ -33,6 +41,12 @@ const App = () => {
         <Route path="/header" element={<Header />} />
         <Route path="/gallery" element={<Gallery />} />
         <Route path="/achievements" element={<Achievements />} />
+        <Route path="/projects" element={<Projects />} /> {/* Projects route */}
+        <Route path="/projects/crack-detection" element={<ProjectCrackDetection />} /> {/* Crack Detection route */}
+        <Route path="/projects/medical-drone" element={<ProjectMedicalDrone />} /> {/* Medical Drone route */}
+        <Route path="/projects/university-surveillance" element={<ProjectUniversitySurveillance />} /> {/* University Surveillance route */}
+        <Route path="/projects/virtual-tour-drones" element={<ProjectVirtualTourDrones />} /> {/* Virtual Tour Drones route */}
+        <Route path="/projects/project-id-tag-detection" element={<ProjectIDTagDetection />} /> {/* Project ID Tag Detection route */}
       </Routes>
     </Router>
   );
