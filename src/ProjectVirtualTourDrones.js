@@ -1,5 +1,5 @@
 import React from 'react';
-import './ProjectVirtualTourDrones.css'; // Your custom CSS for this project
+import './ProjectReport.css'; // Your custom CSS for this project
 
 // Import the image directly from the 'src' folder
 import virtualTourDronesImage from './virtual-tour-drones.jpg'; // Adjust path accordingly
