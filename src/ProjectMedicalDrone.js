@@ -1,5 +1,5 @@
 import React from 'react';
-import './ProjectRepot.css'; // Your CSS for styling
+import './ProjectReport.css'; // Your CSS for styling
 
 // Import the image from the same folder
 import medicalDroneImage from './medical-drone.jpg';  // No need for an additional folder
