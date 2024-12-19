@@ -17,6 +17,7 @@ const Header = () => {
         <Link to="/past-events" className="nav-link">Past Events</Link>
         <Link to="/team" className="nav-link">Team</Link>
             <Link to="/achievements" className="nav-link">Achievements</Link>
+        <Link to="/projects" className="nav-link">Projects</Link> {/* Added Projects */}
 
             <Link to="/gallery" className="nav-link">Gallery</Link>
         <Link to="/contact" className="nav-link">Contact Us</Link>
