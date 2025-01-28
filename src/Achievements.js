@@ -32,13 +32,8 @@ const Achievements = () => {
                   text: "We are thrilled to announce that our team has emerged victorious in the zonal round of the prestigious Eureka Pitchathon! This milestone reflects our innovative ideas, hard work, and determination to excel. Competing against some of the brightest minds, we presented a compelling vision that resonated with the judges and stood out as a winning concept."
 
     },
-     {
-      image: AchievementPhoto5,
-                  text: "We are immensely proud to share that we have emerged as the National Winners of the prestigious Smart India Hackathon 2025! Competing at the highest level, our innovative solution impressed the judges and stood out among exceptional projects from across the country.
+     text: "We are immensely proud to share that we have emerged as the National Winners of the prestigious Smart India Hackathon 2025! Competing at the highest level, our innovative solution impressed the judges and stood out among exceptional projects from across the country. This achievement reflects our commitment to creating impactful, real-world solutions and our dedication to pushing the boundaries of innovation. We thank everyone who supported us on this incredible journey and look forward to continuing to make a difference with our ideas!"
 
-This achievement reflects our commitment to creating impactful, real-world solutions and our dedication to pushing the boundaries of innovation. We thank everyone who supported us on this incredible journey and look forward to continuing to make a difference with our ideas!."
-
-    },
     
     // Add more achievements here
   ];
