@@ -8,9 +8,6 @@ import AchievementPhoto3 from './AchievementPhoto3.jpg';
 import AchievementPhoto4 from './AchievementPhoto4.jpg';
 import AchievementPhoto5 from './AchievementPhoto5.jpg';
 
-
-
-
 const Achievements = () => {
   // Array of achievements with photos and descriptions
   const achievements = [
@@ -32,6 +29,12 @@ const Achievements = () => {
                   text: "We are thrilled to announce that our team has emerged victorious in the zonal round of the prestigious Eureka Pitchathon! This milestone reflects our innovative ideas, hard work, and determination to excel. Competing against some of the brightest minds, we presented a compelling vision that resonated with the judges and stood out as a winning concept."
 
     },
+    {
+      image: AchievementPhoto5,
+      text: "We are thrilled to announce that we have emerged as the National Winners of the prestigious Smart India Hackathon 2025 and secured victory in the zonal round of the Eureka Pitchathon! These achievements highlight our relentless pursuit of innovation and excellence, as we presented impactful solutions that stood out among the best minds across the country. We extend our gratitude to everyone who supported us on this journey and remain committed to pushing the boundaries of creativity and technology. Stay tuned as we continue to make a difference with our ideas!"
+},
+
+
 
     
     // Add more achievements here
