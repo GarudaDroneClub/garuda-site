@@ -28,7 +28,9 @@ const Achievements = () => {
     {
       image: AchievementPhoto6,
       image2: AchievementPhoto7, // Second image property
-      text: "We are excited to share that we made a remarkable impact at the Amaravati Drone Summit 2024, showcasing our cutting-edge innovations in drone technology! Our participation in this prestigious event reinforced our commitment to pushing the boundaries of aerial advancements and smart solutions. Competing alongside some of the brightest minds, we demonstrated groundbreaking ideas that captured attention and appreciation. A heartfelt thank you to everyone who supported us on this journey. Stay tuned as we continue to redefine possibilities in the world of drones and technology!\n\n[Click here to learn more](https://www.kluniversity.in/view.aspx?id=3467)"
+      text: `We are excited to share that we made a remarkable impact at the Amaravati Drone Summit 2024, showcasing our cutting-edge innovations in drone technology! Our participation in this prestigious event reinforced our commitment to pushing the boundaries of aerial advancements and smart solutions. Competing alongside some of the brightest minds, we demonstrated groundbreaking ideas that captured attention and appreciation. A heartfelt thank you to everyone who supported us on this journey. Stay tuned as we continue to redefine possibilities in the world of drones and technology!  
+      <br/><br/>
+      <a href="https://www.kluniversity.in/view.aspx?id=3467" target="_blank" rel="noopener noreferrer">Click here to learn more</a>`
     },
     {
       image: AchievementPhoto4,
@@ -50,9 +52,7 @@ const Achievements = () => {
           {achievement.image2 && (
             <img src={achievement.image2} alt={`Achievement ${index + 1} - 2`} className="achievement-photo" />
           )}
-          <div className="achievement-text">
-            <p>{achievement.text}</p>
-          </div>
+          <div className="achievement-text" dangerouslySetInnerHTML={{ __html: achievement.text }} />
         </div>
       ))}
     </div>
