@@ -7,8 +7,8 @@ import AchievementPhoto2 from './AchievementPhoto2.jpg';
 import AchievementPhoto3 from './AchievementPhoto3.jpg';
 import AchievementPhoto4 from './AchievementPhoto4.jpg';
 import AchievementPhoto5 from './AchievementPhoto5.jpg';
-import AchievementPhoto5 from './AchievementPhoto6.jpg';
-import AchievementPhoto5 from './AchievementPhoto7.jpg';
+import AchievementPhoto6 from './AchievementPhoto6.jpg';
+import AchievementPhoto7 from './AchievementPhoto7.jpg';
 
 const Achievements = () => {
   // Array of achievements with photos and descriptions
