@@ -17,20 +17,20 @@ import teamPhoto17 from './teamPhoto17.jpg';
 import teamPhoto29 from './teamPhoto29.png';
 import teamPhoto30 from './teamPhoto30.png';
 import teamPhoto31 from './teamPhoto31.png';
-import teamPhoto32 from './teamPhoto32.jpg';
+import teamPhoto32 from './teamPhoto32.png';
 import teamPhoto33 from './teamPhoto33.png';
 import teamPhoto34 from './teamPhoto34.png';
 import teamPhoto35 from './teamPhoto35.jpg';
 import teamPhoto36 from './teamPhoto36.png';
-import teamPhoto37 from './teamPhoto37.jpg';
-import teamPhoto38 from './teamPhoto38.jpg';
+//import teamPhoto37 from './teamPhoto37.jpg';
+import teamPhoto38 from './teamPhoto38.png';
 import teamPhoto39 from './teamPhoto39.jpg';
-import teamPhoto40 from './teamPhoto40.jpg';
+import teamPhoto40 from './teamPhoto40.png';
 import teamPhoto41 from './teamPhoto41.png';
 import teamPhoto42 from './teamPhoto42.jpg';
 import teamPhoto43 from './teamPhoto43.png';
-import teamPhoto44 from './teamPhoto44.jpg';
-import teamPhoto45 from './teamPhoto45.jpg';
+import teamPhoto44 from './teamPhoto44.jpeg';
+import teamPhoto45 from './teamPhoto45.png';
 import teamPhoto46 from './teamPhoto46.jpg';
 
 // ... import other photos
@@ -139,11 +139,11 @@ const Y2024_2025 = () => {
       role: 'Technical Core',
       photo: teamPhoto36,
     },
-    {
+  /*  {
       name: 'Y.Manikanta Sai',
       role: 'Technical Core',
       photo: teamPhoto37,
-    },
+    },*/
     {
       name: 'V.Sai Kumar',
       role: 'Technical Core',
