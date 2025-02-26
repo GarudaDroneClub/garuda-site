@@ -69,16 +69,7 @@ const Y2024_2025 = () => {
       role: 'Event Handler',
       photo: teamPhoto10,
     },
-    {
-      name: 'B.Manesh',
-      role: 'Technical Core',
-      photo: teamPhoto11,
-    },
-     {
-      name: 'P.Anvitha',
-      role: 'Technical Core',
-      photo: teamPhoto18,
-    },
+    
      {
       name: 'M.Mani Dileep',
       role: 'Technical Core',
@@ -90,6 +81,97 @@ const Y2024_2025 = () => {
       role: 'Technical Core',
       photo: teamPhoto17,
     },
+    {
+      name: 'J.Hema Sundhara Rao',
+      role: 'Technical Core',
+      photo: teamPhoto30,
+    },
+    {
+      name: 'K.Sri Sai Taran',
+      role: 'Technical Core',
+      photo: teamPhoto31,
+    },
+    {
+      name: 'G.Rohith',
+      role: 'Technical Core',
+      photo: teamPhoto32,
+    },
+    {
+      name: 'T.Harshitha',
+      role: 'Technical Core',
+      photo: teamPhoto33,
+    },
+    {
+      name: 'Ch.Heshmitha',
+      role: 'Technical Core',
+      photo: teamPhoto34,
+    },
+    {
+      name: 'B.Govardhini',
+      role: 'Technical Core',
+      photo: teamPhoto35,
+    },
+    {
+      name: 'T.Navya Sri',
+      role: 'Technical Core',
+      photo: teamPhoto36,
+    },
+    {
+      name: 'V.Subhashini',
+      role: 'Technical Core',
+      photo: teamPhoto37,
+    },
+    {
+      name: 'Y.Manikanta Sai',
+      role: 'Technical Core',
+      photo: teamPhoto38,
+    },
+    {
+      name: 'V.Sai Kumar',
+      role: 'Technical Core',
+      photo: teamPhoto39,
+    },
+    {
+      name: 'M.Mithilesh',
+      role: 'Technical Core',
+      photo: teamPhoto40,
+    },
+    {
+      name: 'G.Harshitha',
+      role: 'Technical Core',
+      photo: teamPhoto41,
+    },
+    {
+      name: 'R.Ritesh Venkata Sai Mani',
+      role: 'Technical Core',
+      photo: teamPhoto42,
+    },
+    {
+      name: 'Ch.tejasree',
+      role: 'Technical Core',
+      photo: teamPhoto43,
+    },
+    {
+      name: 'R.Sri ram kumar',
+      role: 'Technical Core',
+      photo: teamPhoto44,
+    },
+    {
+      name: 'S.Pranav',
+      role: 'Technical Core',
+      photo: teamPhoto45,
+    },
+    {
+      name: 'M.Sasank Reddy',
+      role: 'Technical Core',
+      photo: teamPhoto46,
+    },
+    {
+      name: 'P.Siva',
+      role: 'Technical Core',
+      photo: teamPhoto47,
+    },
+
 
      
     // ... add other team members
