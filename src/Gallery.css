@@ -19,7 +19,7 @@
 .gallery-content {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Smaller min-width for Tetris-like arrangement */
-  grid-auto-rows: 200px; /* Uniform row height */
+  grid-auto-rows: auto; /* Allow rows to adjust based on content */
   gap: 10px;
 }
 
@@ -33,6 +33,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  overflow: hidden;
 }
 
 .gallery-item:nth-child(3n) {
@@ -45,8 +46,9 @@
 
 .gallery-photo, .gallery-video {
   width: 100%;
-  height: 100%;
-  object-fit: cover; /* Ensures media covers the space properly */
+  height: auto;
+  max-height: 100%;
+  object-fit: contain; /* Ensures media fits without cropping */
   border-radius: 8px; /* Slightly rounded corners */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
