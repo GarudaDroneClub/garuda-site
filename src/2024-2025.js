@@ -14,6 +14,24 @@ import teamPhoto11 from './teamPhoto11.jpg';
 import teamPhoto18 from './teamPhoto18.jpg';
 import teamPhoto12 from './teamPhoto12.jpg';
 import teamPhoto17 from './teamPhoto17.jpg';
+import teamPhoto29 from './teamPhoto29.jpg';
+import teamPhoto30 from './teamPhoto30.jpg';
+import teamPhoto31 from './teamPhoto31.jpg';
+import teamPhoto32 from './teamPhoto32.jpg';
+import teamPhoto33 from './teamPhoto33.jpg';
+import teamPhoto34 from './teamPhoto34.jpg';
+import teamPhoto35 from './teamPhoto35.jpg';
+import teamPhoto36 from './teamPhoto36.jpg';
+import teamPhoto37 from './teamPhoto37.jpg';
+import teamPhoto38 from './teamPhoto38.jpg';
+import teamPhoto39 from './teamPhoto39.jpg';
+import teamPhoto40 from './teamPhoto40.jpg';
+import teamPhoto41 from './teamPhoto41.jpg';
+import teamPhoto42 from './teamPhoto42.jpg';
+import teamPhoto43 from './teamPhoto43.jpg';
+import teamPhoto44 from './teamPhoto44.jpg';
+import teamPhoto45 from './teamPhoto45.jpg';
+import teamPhoto46 from './teamPhoto46.jpg';
 
 // ... import other photos
 
@@ -80,97 +98,97 @@ const Y2024_2025 = () => {
       name: 'T.Gowtham Sai',
       role: 'Technical Core',
       photo: teamPhoto17,
-    },
-    {
+    },{
       name: 'J.Hema Sundhara Rao',
       role: 'Technical Core',
-      photo: teamPhoto30,
+      photo: teamPhoto29,
     },
     {
       name: 'K.Sri Sai Taran',
       role: 'Technical Core',
-      photo: teamPhoto31,
+      photo: teamPhoto30,
     },
     {
       name: 'G.Rohith',
       role: 'Technical Core',
-      photo: teamPhoto32,
+      photo: teamPhoto31,
     },
     {
       name: 'T.Harshitha',
       role: 'Technical Core',
-      photo: teamPhoto33,
+      photo: teamPhoto32,
     },
     {
       name: 'Ch.Heshmitha',
       role: 'Technical Core',
-      photo: teamPhoto34,
+      photo: teamPhoto33,
     },
     {
       name: 'B.Govardhini',
       role: 'Technical Core',
-      photo: teamPhoto35,
+      photo: teamPhoto34,
     },
     {
       name: 'T.Navya Sri',
       role: 'Technical Core',
-      photo: teamPhoto36,
+      photo: teamPhoto35,
     },
     {
       name: 'V.Subhashini',
       role: 'Technical Core',
-      photo: teamPhoto37,
+      photo: teamPhoto36,
     },
     {
       name: 'Y.Manikanta Sai',
       role: 'Technical Core',
-      photo: teamPhoto38,
+      photo: teamPhoto37,
     },
     {
       name: 'V.Sai Kumar',
       role: 'Technical Core',
-      photo: teamPhoto39,
+      photo: teamPhoto38,
     },
     {
       name: 'M.Mithilesh',
       role: 'Technical Core',
-      photo: teamPhoto40,
+      photo: teamPhoto39,
     },
     {
       name: 'G.Harshitha',
       role: 'Technical Core',
-      photo: teamPhoto41,
+      photo: teamPhoto40,
     },
     {
       name: 'R.Ritesh Venkata Sai Mani',
       role: 'Technical Core',
-      photo: teamPhoto42,
+      photo: teamPhoto41,
     },
     {
       name: 'Ch.tejasree',
       role: 'Technical Core',
-      photo: teamPhoto43,
+      photo: teamPhoto42,
     },
     {
       name: 'R.Sri ram kumar',
       role: 'Technical Core',
-      photo: teamPhoto44,
+      photo: teamPhoto43,
     },
     {
       name: 'S.Pranav',
       role: 'Technical Core',
-      photo: teamPhoto45,
+      photo: teamPhoto44,
     },
     {
       name: 'M.Sasank Reddy',
       role: 'Technical Core',
-      photo: teamPhoto46,
+      photo: teamPhoto45,
     },
     {
       name: 'P.Siva',
       role: 'Technical Core',
-      photo: teamPhoto47,
+      photo: teamPhoto46,
     },
+
 
 
      
