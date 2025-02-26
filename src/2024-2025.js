@@ -14,9 +14,9 @@ import teamPhoto11 from './teamPhoto11.jpg';
 import teamPhoto18 from './teamPhoto18.jpg';
 import teamPhoto12 from './teamPhoto12.jpg';
 import teamPhoto17 from './teamPhoto17.jpg';
-import teamPhoto29 from './teamPhoto29.jpg';
-import teamPhoto30 from './teamPhoto30.jpg';
-import teamPhoto31 from './teamPhoto31.jpg';
+import teamPhoto29 from './teamPhoto29.png';
+import teamPhoto30 from './teamPhoto30.png';
+import teamPhoto31 from './teamPhoto31.png';
 import teamPhoto32 from './teamPhoto32.jpg';
 import teamPhoto33 from './teamPhoto33.jpg';
 import teamPhoto34 from './teamPhoto34.jpg';
@@ -98,7 +98,8 @@ const Y2024_2025 = () => {
       name: 'T.Gowtham Sai',
       role: 'Technical Core',
       photo: teamPhoto17,
-    },{
+    },
+    {
       name: 'J.Hema Sundhara Rao',
       role: 'Technical Core',
       photo: teamPhoto29,
