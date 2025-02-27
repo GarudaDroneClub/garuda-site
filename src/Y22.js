@@ -17,7 +17,11 @@ import teamPhoto21 from './teamPhoto21.jpg';
 import teamPhoto11 from './teamPhoto11.jpg';
 import teamPhoto18 from './teamPhoto18.jpg';
 import teamPhoto12 from './teamPhoto12.jpg';
-import teamPhoto17 from './teamPhoto17.jpg';
+import teamPhoto17 from './teamPhoto47.jpg';
+import teamPhoto17 from './teamPhoto48.jpg';
+import teamPhoto17 from './teamPhoto49.jpg';
+import teamPhoto17 from './teamPhoto50.jpg';
+
 
 // ... import other photos
 
@@ -61,6 +65,11 @@ const Y22 = () => {
       role: 'Technical Core',
       photo: teamPhoto19,
     },
+    {
+      name: 'Ch.Shine Sharon',
+      role: 'Technical Core',
+      photo: teamPhoto49,
+    },
     
      {
       name: 'P.Thanmaie ',
@@ -88,6 +97,19 @@ const Y22 = () => {
       name: 'B.Chaitanya ',
       role: 'Tech Core',
       photo: teamPhoto15,
+    },
+    {
+      name: 'Kaif Baig',
+      role: 'Technical Core',
+      photo: teamPhoto48,
+    },{
+      name: 'G.Charan',
+      role: 'Technical Core',
+      photo: teamPhoto47,
+    },{
+      name: 'Ch.Pavan',
+      role: 'Technical Core',
+      photo: teamPhoto50,
     },
     {
       name: 'Md.Arze Hayat',
