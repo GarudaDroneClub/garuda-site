@@ -10,7 +10,7 @@ import teamPhoto10 from './teamPhoto10.jpg';
 import teamPhoto13 from './teamPhoto13.jpg';
 import teamPhoto14 from './teamPhoto14.jpg';
 import teamPhoto15 from './teamPhoto15.jpg';
-import teamPhoto15 from './teamPhoto16.jpg';
+import teamPhoto16 from './teamPhoto16.jpg';
 import teamPhoto19 from './teamPhoto19.jpg';
 import teamPhoto20 from './teamPhoto20.jpg';
 import teamPhoto21 from './teamPhoto21.jpg';
