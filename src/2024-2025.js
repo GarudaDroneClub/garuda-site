@@ -6,10 +6,7 @@ import teamPhoto3 from './teamPhoto3.png';
 import teamPhoto4 from './teamPhoto4.jpg';
 import teamPhoto5 from './teamPhoto5.jpg';
 import teamPhoto6 from './teamPhoto6.jpg';
-import teamPhoto10 from './teamPhoto10.jpg';
-import teamPhoto19 from './teamPhoto19.jpg';
 import teamPhoto20 from './teamPhoto20.jpg';
-import teamPhoto21 from './teamPhoto21.jpg';
 import teamPhoto11 from './teamPhoto11.jpg';
 import teamPhoto18 from './teamPhoto18.jpg';
 import teamPhoto12 from './teamPhoto12.jpg';
@@ -71,22 +68,7 @@ const Y2024_2025 = () => {
     },
  
 
-     {
-      name: 'Ch.Smile Sofia ',
-      role: 'Technical Core',
-      photo: teamPhoto19,
-    },
-    
-     {
-      name: 'P.Thanmaie ',
-      role: 'Event Monitor',
-      photo: teamPhoto21,
-    },
-    {
-      name: 'Md.Arze Hayat',
-      role: 'Event Handler',
-      photo: teamPhoto10,
-    },
+ 
     
      {
       name: 'M.Mani Dileep',
