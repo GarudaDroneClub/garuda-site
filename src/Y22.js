@@ -7,6 +7,10 @@ import teamPhoto4 from './teamPhoto4.jpg';
 import teamPhoto5 from './teamPhoto5.jpg';
 import teamPhoto6 from './teamPhoto6.jpg';
 import teamPhoto10 from './teamPhoto10.jpg';
+import teamPhoto13 from './teamPhoto13.jpg';
+import teamPhoto14 from './teamPhoto14.jpg';
+import teamPhoto15 from './teamPhoto15.jpg';
+import teamPhoto15 from './teamPhoto16.jpg';
 import teamPhoto19 from './teamPhoto19.jpg';
 import teamPhoto20 from './teamPhoto20.jpg';
 import teamPhoto21 from './teamPhoto21.jpg';
@@ -62,6 +66,28 @@ const Y22 = () => {
       name: 'P.Thanmaie ',
       role: 'Event Monitor',
       photo: teamPhoto21,
+    },
+    
+     {
+      name: 'G.Jyothsna ',
+      role: 'Event Monitor',
+      photo: teamPhoto16,
+    },
+    
+     {
+      name: 'B.Rama Teja ',
+      role: 'Tech Core',
+      photo: teamPhoto13,
+    },
+    {
+      name: 'G.Siddhartha ',
+      role: 'Tech Core',
+      photo: teamPhoto14,
+    },
+     {
+      name: 'B.Chaitanya ',
+      role: 'Tech Core',
+      photo: teamPhoto15,
     },
     {
       name: 'Md.Arze Hayat',
