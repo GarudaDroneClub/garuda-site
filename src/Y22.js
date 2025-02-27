@@ -147,7 +147,7 @@ const Y22 = () => {
     <div className="team-container">
       <Header />
       <header className="team-header">
-        <h2>Meet Our Team - Y22</h2>
+        <h2>Meet Our Team - 2023-2024</h2>
       </header>
       <div className="team-content">
         {teamMembers.map((member, index) => (
