@@ -17,10 +17,10 @@ import teamPhoto21 from './teamPhoto21.jpg';
 import teamPhoto11 from './teamPhoto11.jpg';
 import teamPhoto18 from './teamPhoto18.jpg';
 import teamPhoto12 from './teamPhoto12.jpg';
-import teamPhoto17 from './teamPhoto47.jpg';
-import teamPhoto17 from './teamPhoto48.jpg';
-import teamPhoto17 from './teamPhoto49.jpg';
-import teamPhoto17 from './teamPhoto50.jpg';
+import teamPhoto47 from './teamPhoto47.jpg';
+import teamPhoto48 from './teamPhoto48.jpg';
+import teamPhoto49 from './teamPhoto49.jpg';
+import teamPhoto50 from './teamPhoto50.jpg';
 
 
 // ... import other photos
