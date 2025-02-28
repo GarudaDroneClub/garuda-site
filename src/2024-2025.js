@@ -19,7 +19,7 @@ import teamPhoto33 from './teamPhoto33.png';
 import teamPhoto34 from './teamPhoto34.png';
 import teamPhoto35 from './teamPhoto35.jpg';
 import teamPhoto36 from './teamPhoto36.png';
-//import teamPhoto37 from './teamPhoto37.jpg';
+import teamPhoto37 from './teamPhoto37.jpg';
 import teamPhoto38 from './teamPhoto38.png';
 import teamPhoto39 from './teamPhoto39.jpg';
 import teamPhoto40 from './teamPhoto40.png';
@@ -29,6 +29,7 @@ import teamPhoto43 from './teamPhoto43.png';
 import teamPhoto44 from './teamPhoto44.jpeg';
 import teamPhoto45 from './teamPhoto45.png';
 import teamPhoto46 from './teamPhoto46.jpg';
+
 
 // ... import other photos
 
@@ -121,11 +122,11 @@ const Y2024_2025 = () => {
       role: 'Technical Core',
       photo: teamPhoto36,
     },
-  /*  {
+    {
       name: 'Y.Manikanta Sai',
       role: 'Technical Core',
       photo: teamPhoto37,
-    },*/
+    },
     {
       name: 'V.Sai Kumar',
       role: 'Technical Core',
