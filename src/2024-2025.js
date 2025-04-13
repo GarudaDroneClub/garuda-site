@@ -177,7 +177,7 @@ const Y2024_2025 = () => {
    {
       name: 'D.Kalyan',
       role: 'Technical Core',
-      photo: teamPhoto17,
+      photo: teamPhoto51,
     },
 
 
