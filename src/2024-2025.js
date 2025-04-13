@@ -29,6 +29,8 @@ import teamPhoto43 from './teamPhoto43.png';
 import teamPhoto44 from './teamPhoto44.jpeg';
 import teamPhoto45 from './teamPhoto45.png';
 import teamPhoto46 from './teamPhoto46.jpg';
+import teamPhoto51 from './teamPhoto51.jpg';
+
 
 
 // ... import other photos
@@ -172,7 +174,11 @@ const Y2024_2025 = () => {
       role: 'Technical Core',
       photo: teamPhoto46,
     },
-
+   {
+      name: 'D.Kalyan',
+      role: 'Technical Core',
+      photo: teamPhoto17,
+    },
 
 
      
