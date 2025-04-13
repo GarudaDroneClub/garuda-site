@@ -22,7 +22,6 @@ import teamPhoto47 from './teamPhoto47.jpg';
 import teamPhoto48 from './teamPhoto48.jpg';
 import teamPhoto49 from './teamPhoto49.jpg';
 import teamPhoto50 from './teamPhoto50.jpg';
-import teamPhoto51 from './teamPhoto51.jpg';
 
 
 // ... import other photos
@@ -139,11 +138,7 @@ const Y22 = () => {
       role: 'Technical Core',
       photo: teamPhoto17,
     },
-    {
-      name: 'D.Kalyan',
-      role: 'Technical Core',
-      photo: teamPhoto17,
-    },
+ 
 
      
     // ... add other team members
