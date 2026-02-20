@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
+import './styles/variables.css'; // Import Design System Variables
+import './styles/components.css'; // Import Shared Components
+import './styles/index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 

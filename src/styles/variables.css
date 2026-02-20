@@ -1,0 +1,51 @@
+/* src/styles/variables.css */
+
+:root {
+    /* Color Palette */
+    --color-primary: #00FFFF;
+    /* Cyber Cyan */
+    --color-secondary: #FFD700;
+    /* Golden Honor */
+    --color-background: #0A0A0A;
+    /* Deep Void */
+    --color-surface: rgba(20, 20, 20, 0.7);
+    /* Glass Black */
+    --color-surface-hover: rgba(40, 40, 40, 0.8);
+
+    --color-text-primary: #FFFFFF;
+    --color-text-secondary: #B0B0B0;
+    /* Silver Mist */
+    --color-text-accent: #00FFFF;
+
+    --color-error: #FF4444;
+    --color-success: #39FF14;
+
+    /* Gradients */
+    --gradient-primary: linear-gradient(45deg, #00C6FF, #0072FF);
+    --gradient-gold: linear-gradient(45deg, #FFD700, #FFA500);
+    --gradient-dark: linear-gradient(to bottom, #0A0A0A, #1a1a1a);
+
+    /* Typography */
+    --font-heading-hero: 'Orbitron', sans-serif;
+    --font-heading-section: 'Montserrat', sans-serif;
+    --font-body: 'Inter', sans-serif;
+
+    /* Spacing */
+    --spacing-xs: 4px;
+    --spacing-sm: 8px;
+    --spacing-md: 16px;
+    --spacing-lg: 32px;
+    --spacing-xl: 64px;
+    --spacing-xxl: 128px;
+
+    /* Components */
+    --border-radius-card: 16px;
+    --border-radius-btn: 50px;
+    --border-thin: 1px solid rgba(255, 255, 255, 0.1);
+    --shadow-card: 0 4px 20px rgba(0, 0, 0, 0.5);
+    --shadow-glow: 0 0 15px rgba(0, 255, 255, 0.3);
+
+    /* Transitions */
+    --transition-fast: 0.2s ease;
+    --transition-normal: 0.3s ease-in-out;
+}

@@ -1,0 +1,302 @@
+{
+  "fi": {
+    "title": "Faculty Incharge",
+    "members": [
+      {
+        "name": "Dr.Nilu Singh",
+        "description": "Dr. Nilu Singh, Ph.D.,  is the Club Incharge and is the driving force behind our club's progressive success. Her unwavering support and continual encouragement have been instrumental in guiding us to create increasingly better projects.",
+        "photo": "teamPhoto1.jpg"
+      }
+    ]
+  },
+  "y20": {
+    "title": "Team 2022-2023 [ALUMNI]",
+    "members": [
+      {
+        "name": "N.Likhitha",
+        "role": "President",
+        "photo": "teamPhoto22.jpg"
+      },
+      {
+        "name": "N Naga Sai Venkat",
+        "role": "Vice President",
+        "photo": "teamPhoto23.jpg"
+      },
+      {
+        "name": "N Sumadhur Royal",
+        "role": "Secretary",
+        "photo": "teamPhoto24.jpg"
+      },
+      {
+        "name": "G Siddhartha",
+        "role": "Mentor",
+        "photo": "teamPhoto25.jpg"
+      },
+      {
+        "name": "K Prasasthi",
+        "role": "Technical Core",
+        "photo": "teamPhoto26.jpg"
+      },
+      {
+        "name": "K Siri Chandana",
+        "role": "Technical Core",
+        "photo": "teamPhoto27.jpg"
+      },
+      {
+        "name": "P Likhitha",
+        "role": "Technical Core",
+        "photo": "teamPhoto28.jpg"
+      }
+    ]
+  },
+  "y22": {
+    "title": "Team 2023-2024",
+    "members": [
+      {
+        "name": "Gullapalli Venkat",
+        "role": "President & Website Development",
+        "photo": "teamPhoto2.jpg"
+      },
+      {
+        "name": "Ch.Nithin",
+        "role": "Vice-president & Alumni Relations",
+        "photo": "teamPhoto3.png"
+      },
+      {
+        "name": "V.Vishnu Vardhan",
+        "role": "Secretary",
+        "photo": "teamPhoto4.jpg"
+      },
+      {
+        "name": "Mouli Sagar",
+        "role": "ADVISOR",
+        "photo": "teamPhoto5.jpg"
+      },
+      {
+        "name": "M.Yatish Datta",
+        "role": "Mentor",
+        "photo": "teamPhoto6.jpg"
+      },
+      {
+        "name": "A.Harshini ",
+        "role": "Technical Core",
+        "photo": "teamPhoto20.jpg"
+      },
+      {
+        "name": "Ch.Smile Sofia ",
+        "role": "Technical Core",
+        "photo": "teamPhoto19.jpg"
+      },
+      {
+        "name": "Ch.Shine Sharon",
+        "role": "Technical Core",
+        "photo": "teamPhoto49.jpg"
+      },
+      {
+        "name": "P.Thanmaie ",
+        "role": "Event Monitor",
+        "photo": "teamPhoto21.jpg"
+      },
+      {
+        "name": "G.Jyothsna ",
+        "role": "Event Monitor",
+        "photo": "teamPhoto16.jpg"
+      },
+      {
+        "name": "B.Rama Teja ",
+        "role": "Tech Core",
+        "photo": "teamPhoto13.jpg"
+      },
+      {
+        "name": "G.Siddhartha ",
+        "role": "Tech Core",
+        "photo": "teamPhoto14.jpg"
+      },
+      {
+        "name": "B.Chaitanya ",
+        "role": "Tech Core",
+        "photo": "teamPhoto15.jpg"
+      },
+      {
+        "name": "Kaif Baig",
+        "role": "Technical Core",
+        "photo": "teamPhoto48.jpg"
+      },
+      {
+        "name": "G.Charan",
+        "role": "Technical Core",
+        "photo": "teamPhoto47.jpg"
+      },
+      {
+        "name": "Ch.Pavan",
+        "role": "Technical Core",
+        "photo": "teamPhoto50.jpg"
+      },
+      {
+        "name": "Md.Arze Hayat",
+        "role": "Event Handler",
+        "photo": "teamPhoto10.jpg"
+      },
+      {
+        "name": "B.Manesh",
+        "role": "Technical Core",
+        "photo": "teamPhoto11.jpg"
+      },
+      {
+        "name": "P.Anvitha",
+        "role": "Technical Core",
+        "photo": "teamPhoto18.jpg"
+      },
+      {
+        "name": "M.Mani Dileep",
+        "role": "Technical Core",
+        "photo": "teamPhoto12.jpg"
+      },
+      {
+        "name": "T.Gowtham Sai",
+        "role": "Technical Core",
+        "photo": "teamPhoto17.jpg"
+      }
+    ]
+  },
+  "2024-2025": {
+    "title": "Team 2024-2025",
+    "members": [
+      {
+        "name": "Gullapalli Venkat",
+        "role": "President & Website Development",
+        "photo": "teamPhoto2.jpg"
+      },
+      {
+        "name": "Ch.Nithin",
+        "role": "Vice-president & Alumni Relations",
+        "photo": "teamPhoto3.png"
+      },
+      {
+        "name": "A.Harshini ",
+        "role": "Secretary",
+        "photo": "teamPhoto20.jpg"
+      },
+      {
+        "name": "V.Vishnu Vardhan",
+        "role": "Director",
+        "photo": "teamPhoto4.jpg"
+      },
+      {
+        "name": "Mouli Sagar",
+        "role": "ADVISOR",
+        "photo": "teamPhoto5.jpg"
+      },
+      {
+        "name": "M.Yatish Datta",
+        "role": "Mentor",
+        "photo": "teamPhoto6.jpg"
+      },
+      {
+        "name": "M.Mani Dileep",
+        "role": "Technical Core",
+        "photo": "teamPhoto12.jpg"
+      },
+      {
+        "name": "T.Gowtham Sai",
+        "role": "Technical Core",
+        "photo": "teamPhoto17.jpg"
+      },
+      {
+        "name": "J.Hema Sundhara Rao",
+        "role": "Technical Core",
+        "photo": "teamPhoto29.png"
+      },
+      {
+        "name": "K.Sri Sai Taran",
+        "role": "Technical Core",
+        "photo": "teamPhoto30.png"
+      },
+      {
+        "name": "G.Rohith",
+        "role": "Technical Core",
+        "photo": "teamPhoto31.png"
+      },
+      {
+        "name": "T.Harshitha",
+        "role": "Technical Core",
+        "photo": "teamPhoto32.png"
+      },
+      {
+        "name": "Ch.Heshmitha",
+        "role": "Technical Core",
+        "photo": "teamPhoto33.png"
+      },
+      {
+        "name": "B.Govardhini",
+        "role": "Technical Core",
+        "photo": "teamPhoto34.png"
+      },
+      {
+        "name": "T.Navya Sri",
+        "role": "Technical Core",
+        "photo": "teamPhoto35.jpg"
+      },
+      {
+        "name": "V.Subhashini",
+        "role": "Technical Core",
+        "photo": "teamPhoto36.png"
+      },
+      {
+        "name": "Y.Manikanta Sai",
+        "role": "Technical Core",
+        "photo": "teamPhoto37.jpg"
+      },
+      {
+        "name": "V.Sai Kumar",
+        "role": "Technical Core",
+        "photo": "teamPhoto38.png"
+      },
+      {
+        "name": "M.Mithilesh",
+        "role": "Technical Core",
+        "photo": "teamPhoto39.jpg"
+      },
+      {
+        "name": "G.Harshitha",
+        "role": "Technical Core",
+        "photo": "teamPhoto40.png"
+      },
+      {
+        "name": "R.Ritesh Venkata Sai Mani",
+        "role": "Technical Core",
+        "photo": "teamPhoto41.png"
+      },
+      {
+        "name": "Ch.tejasree",
+        "role": "Technical Core",
+        "photo": "teamPhoto42.jpg"
+      },
+      {
+        "name": "R.Sri ram kumar",
+        "role": "Technical Core",
+        "photo": "teamPhoto43.png"
+      },
+      {
+        "name": "S.Pranav",
+        "role": "Technical Core",
+        "photo": "teamPhoto44.jpeg"
+      },
+      {
+        "name": "M.Sasank Reddy",
+        "role": "Technical Core",
+        "photo": "teamPhoto45.png"
+      },
+      {
+        "name": "P.Siva",
+        "role": "Technical Core",
+        "photo": "teamPhoto46.jpg"
+      },
+      {
+        "name": "D.Kalyan",
+        "role": "Technical Core",
+        "photo": "teamPhoto51.jpg"
+      }
+    ]
+  }
+}
