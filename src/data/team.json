@@ -303,21 +303,6 @@
     "title": "Team 2025-2026",
     "members": [
       {
-        "name": "T.Harshitha",
-        "role": "President",
-        "photo": "T.Harshitha.png"
-      },
-      {
-        "name": "PAAVAN MADDI",
-        "role": "Vice-President",
-        "photo": "PAAVAN MADDI.jpeg"
-      },
-      {
-        "name": "T.Navya Sri",
-        "role": "Secretary",
-        "photo": "teamPhoto35.jpg"
-      },
-      {
         "name": "Gullapalli Venkat",
         "role": "ADVISOR",
         "photo": "teamPhoto2.jpg"
@@ -336,6 +321,26 @@
         "name": "V.Vishnu Vardhan",
         "role": "ADVISOR",
         "photo": "teamPhoto4.jpg"
+      },
+      {
+        "name": "Mouli Sagar",
+        "role": "ADVISOR",
+        "photo": "teamPhoto5.jpg"
+      },
+      {
+        "name": "T.Harshitha",
+        "role": "President",
+        "photo": "T.Harshitha.png"
+      },
+      {
+        "name": "PAAVAN MADDI",
+        "role": "Vice-President",
+        "photo": "PAAVAN MADDI.jpeg"
+      },
+      {
+        "name": "T.Navya Sri",
+        "role": "Secretary",
+        "photo": "teamPhoto35.jpg"
       },
       {
         "name": "M.Mithilesh",
