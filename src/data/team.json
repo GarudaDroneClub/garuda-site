@@ -298,5 +298,90 @@
         "photo": "teamPhoto51.jpg"
       }
     ]
+  },
+  "2025-2026": {
+    "title": "Team 2025-2026",
+    "members": [
+      {
+        "name": "T.Harshitha",
+        "role": "President",
+        "photo": "T.Harshitha.jpg"
+      },
+      {
+        "name": "PAAVAN MADDI",
+        "role": "Vice-President",
+        "photo": "PAAVAN MADDI.jpg"
+      },
+      {
+        "name": "T.Navya Sri",
+        "role": "Secretary",
+        "photo": "teamPhoto35.jpg"
+      },
+      {
+        "name": "M.Mithilesh",
+        "role": "Research and Innovation Director",
+        "photo": "teamPhoto39.jpg"
+      },
+      {
+        "name": "R.Ritesh Venkata Sai Mani",
+        "role": "Research and Innovation Lead",
+        "photo": "teamPhoto41.png"
+      },
+      {
+        "name": "G.Rohith",
+        "role": "Research and Innovation Head",
+        "photo": "Rohith G.jpeg"
+      },
+      {
+        "name": "M.Mani Dileep",
+        "role": "Technical Core",
+        "photo": "Mani Dileep.jpg"
+      },
+      {
+        "name": "Vijay Kumar dass",
+        "role": "Descipline Assoc Head",
+        "photo": "Vijay Kumar dass.jpg"
+      },
+      {
+        "name": "J.Hema Sundhara Rao",
+        "role": "Technical Core",
+        "photo": "HEMASUNDHARARAO JAVVADHI.jpeg"
+      },
+      {
+        "name": "P.Siva",
+        "role": "Technical Core",
+        "photo": "teamPhoto46.jpg"
+      },
+      {
+        "name": "V.Sai Kumar",
+        "role": "Sponsership & Outreach Lead",
+        "photo": "teamPhoto38.png"
+      },
+      {
+        "name": "T.Gowtham Sai",
+        "role": "Director Tech",
+        "photo": "teamPhoto17.jpg"
+      },
+      {
+        "name": "B.Govardhini",
+        "role": "Content Head",
+        "photo": "teamPhoto34.png"
+      },
+      {
+        "name": "Ch.Heshmitha",
+        "role": "PR&Media Head",
+        "photo": "teamPhoto33.png"
+      },
+      {
+        "name": "Lokesh Bommu",
+        "role": "Design Lead",
+        "photo": "Lokesh Bommu.jpg"
+      },
+      {
+        "name": "T.Anusha",
+        "role": "Design Co-Lead",
+        "photo": "T.Anusha.jpg"
+      }
+    ]
   }
 }

@@ -6,8 +6,9 @@ import Header from '../components/Header';
 const Team = () => {
   const years = [
     { id: 'fi', title: 'Faculty Incharge', desc: 'Our Guiding Light', color: 'var(--color-primary)' },
-    { id: '2024-2025', title: '2024-2025', desc: 'Current Team', color: 'var(--color-secondary)' },
-    { id: 'y22', title: '2023-2024', desc: 'Previous Team', color: 'var(--color-text-secondary)' },
+    { id: '2025-2026', title: '2025-2026', desc: 'Current Team', color: 'var(--color-secondary)' },
+    { id: '2024-2025', title: '2024-2025', desc: 'Previous Team', color: 'var(--color-text-secondary)' },
+    { id: 'y22', title: '2023-2024', desc: 'Alumni', color: 'var(--color-text-secondary)' },
     { id: 'y20', title: '2022-2023 [ALUMNI]', desc: 'Founding Members', color: 'var(--color-text-secondary)' },
   ];
 
